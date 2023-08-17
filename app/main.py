@@ -11,7 +11,7 @@ CORS(app)
 import os
 import openai
 
-openai.api_key = "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"
+openai.api_key = "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"
 def getChatGPTResponse(message):
     print(message)
     try:
