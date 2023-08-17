@@ -1,5 +1,5 @@
 // Assuming your backend endpoint is '/getChatGPTResponse'
-const API_URL = 'http://127.0.0.1:5000/getResponse';
+const API_URL = 'https://chatbot-app-tohylic-958081a72134.herokuapp.com/getResponse';
 
 document.addEventListener("DOMContentLoaded", () => {
   const inputField = document.getElementById("input");
