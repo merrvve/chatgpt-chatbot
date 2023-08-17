@@ -51,9 +51,18 @@ def welcome():
 @app.route('/getResponse', methods=['POST'])
 def getResponse(message):
     user_message = request.get_json()
-    response_text = user_message
-
-    return jsonify(response_text)
+    
+    if 'message' in user_message:
+        message = user_message['message']  # Access 'message' attribute from the JSON data
+        
+        response=openaiService.getChatGPTResponse(message)
+        print(response)
+        data = {
+            'reply': response,
+        }
+        return jsonify(data)
+    else:
+        return jsonify({'error': 'Missing or incorrect data'}), 400
 
 
 
