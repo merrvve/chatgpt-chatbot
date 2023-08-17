@@ -1,68 +1,56 @@
-
-from flask import Flask, render_template, request
+from flask import Flask, render_template,jsonify,request
 from flask_cors import CORS
-
-
-
-
+import requests,openai,os
+from dotenv.main import load_dotenv
 app = Flask(__name__)
 CORS(app)
 
-import os
-import openai
+load_dotenv()
+API = os.environ['API']
 
-openai.api_key = "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"
-def getChatGPTResponse(message):
-    print(message)
+@app.route('/')
+def index():
+    return render_template('index.html')
+
+@app.route('/data', methods=['POST'])
+def get_data():
+    
+    data = request.get_json()
+    text=data.get('data')
+    openai.api_key = API
+    
+    user_input = text
+    print(user_input)
     try:
+    
         response = openai.ChatCompletion.create(
             model="gpt-3.5-turbo",
             messages=[
                 {
                     "role": "system",
-                    "content": "Sen bir avukatsın. Yalnızca hukukla ilgili sorulara yanıt ver. Yalnızca Türk kanunlarına göre yanıt ver. "
+                    "content": "Sen bir avukatsın. Yalnızca hukukla ilgili sorulara yanıt ver ve yalnızca Türkiye kanunlarına göre yanıt ver. "
                 },
                 {
                     "role": "user",
-                    "content": message
+                    "content": user_input
                 },
             ],
             temperature=1,
-            max_tokens=256,
+            max_tokens=1000,
             top_p=1,
             frequency_penalty=0,
             presence_penalty=0
         )
-        print(response)
-        return response.choices[0].message.content
+       
+        model_reply = response.choices[0].message.content
+        print(response,model_reply)
+        return jsonify({"response":True,"message":model_reply})
     except Exception as e:
-        print("Error:", e)
-        return "Error"
-        
+        print(e)
+        error_message = f'Error: {str(e)}'
+        return jsonify({"message":error_message,"response":False})
 
-
-
-
-
-@app.route('/', methods=['GET', 'POST'])
-def welcome():
-    return render_template('index.html')
-
-@app.route('/getResponse', methods=['POST'])
-def getResponse(message):
-    user_message = request.get_json()
     
-    if 'message' in user_message:
-        message = user_message['message']  # Access 'message' attribute from the JSON data
-        
-        response=openaiService.getChatGPTResponse(message)
-        print(response)
-        data = {
-            'reply': response,
-        }
-        return jsonify(data)
-    else:
-        return jsonify({'error': 'Missing or incorrect data'}), 400
 
-
-
+if __name__ == '__main__':
+    app.run()

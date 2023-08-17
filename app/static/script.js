@@ -1,5 +1,6 @@
 // Assuming your backend endpoint is '/getChatGPTResponse'
-const API_URL = 'https://chatbot-app-tohylic-958081a72134.herokuapp.com/getResponse';
+//const API_URL = 'https://chatbot-app-tohylic-958081a72134.herokuapp.com/getResponse';
+const API_URL = 'http://127.0.0.1:5000/api/data';
 
 document.addEventListener("DOMContentLoaded", () => {
   const inputField = document.getElementById("input");
@@ -27,6 +28,7 @@ function output(input) {
   })
   .then(response => response.json())
   .then(data => {
+	  console.log(data);
     // Update the message with the actual response
     const botMessages = document.querySelectorAll("#bot-response");
     const lastBotMessage = botMessages[botMessages.length - 1];
