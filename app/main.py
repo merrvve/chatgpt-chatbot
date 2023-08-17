@@ -11,7 +11,7 @@ CORS(app)
 import os
 import openai
 
-openai.api_key = ""
+openai.api_key = "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"
 def getChatGPTResponse(message):
     print(message)
     try:
@@ -20,7 +20,7 @@ def getChatGPTResponse(message):
             messages=[
                 {
                     "role": "system",
-                    "content": "Sen bir hukuk danışmanısın. Yalnızca hukukla ilgili sorulara yanıt ver."
+                    "content": "Sen bir avukatsın. Yalnızca hukukla ilgili sorulara yanıt ver. Yalnızca Türk kanunlarına göre yanıt ver. "
                 },
                 {
                     "role": "user",
@@ -44,7 +44,7 @@ def getChatGPTResponse(message):
 
 
 
-@app.route('/home', methods=['GET', 'POST'])
+@app.route('/', methods=['GET', 'POST'])
 def welcome():
     return render_template('index.html')
 
@@ -57,7 +57,3 @@ def getResponse(message):
 
 
 
- 
-@app.route("/")
-def home_view():
-        return "<h1>Welcome to Geeks for Geeks</h1>"
