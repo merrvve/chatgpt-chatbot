@@ -8,7 +8,7 @@
     <title>LegAs - Legal Asistan</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.5/flowbite.min.css" rel="stylesheet" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.5/flowbite.min.js"></script>
-    <style>
+<style>
         .container {
             display: flex;
             justify-content: center;
@@ -91,6 +91,7 @@
             box-shadow: 1px 1px 5px #80808057;
         }
     </style>
+
 </head>
 
 <body>
@@ -108,138 +109,26 @@
     </nav>
 
     <div class="container">
-        <div class="box">
-            <div class="upper" id="upperid">
-                <span class="downwarning">Mesajınızı giriniz</span>
-                
+	<div class="box">
+  <form>
+  <div class="mb-6">
+    <label for="isim" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Adınız:</label>
+    <input type="text" id="isim" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Adınız" required>
+  </div>
+  
+  <div class="mb-6">
+    <label for="email" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">E-posta adresiniz:</label>
+    <input type="email" id="email" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="name@flowbite.com" required>
+  </div>
+  <!-- <button  type="submit" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm w-full sm:w-auto px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Submit</button>
+	-->		
+<a href="{{ url_for('legas') }}" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Başla</a>
 
-            </div>
+</form>
 
-            <div class="bottom">
-                 <form id="userinputform">
-                    <label for="chat" class="sr-only">Mesajınız</label>
-                    <div class="flex items-center px-3 py-2 rounded-lg bg-gray-50 dark:bg-gray-700">
-
-                        <textarea id="userinput" rows="1"
-                            class="block mx-4 p-2.5 w-full text-sm text-gray-900 bg-white rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-800 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
-                            placeholder="Mesajınız..." required></textarea>
-                        <button type="submit"
-                            class="inline-flex justify-center p-2 text-blue-600 rounded-full cursor-pointer hover:bg-blue-100 dark:text-blue-500 dark:hover:bg-gray-600"
-                            id="sendbtn">
-                            <svg aria-hidden="true" class="w-6 h-6 rotate-90" fill="currentColor" viewBox="0 0 20 20"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <path
-                                    d="M10.894 2.553a1 1 0 00-1.788 0l-7 14a1 1 0 001.169 1.409l5-1.429A1 1 0 009 15.571V11a1 1 0 112 0v4.571a1 1 0 00.725.962l5 1.428a1 1 0 001.17-1.408l-7-14z">
-                                </path>
-                            </svg>
-                            <span class="sr-only">Gönder</span>
-                        </button>
-                    </div>
-                </form>
-                <span class="downwarning">Sayfa yenilendiğinde mesaj geçmişi silinecektir.</span>
-            </div>
-        </div>
-    </div>
-
-
-    <script>
-        // for scrolling messages
-        function scrollToBottom() {
-            var div = document.getElementById("upperid");
-            div.scrollTop = div.scrollHeight;
-        }
-        scrollToBottom()
-
-        document.getElementById("userinputform").addEventListener("submit", function (event) {
-            event.preventDefault();
-            formsubmitted();
-        });
-
-        // sending request to python server
-        const formsubmitted = async () => {
-            let userinput = document.getElementById('userinput').value
-            let sendbtn = document.getElementById('sendbtn')
-            let userinputarea = document.getElementById('userinput')
-            let upperdiv = document.getElementById('upperid')
-           
-
-            upperdiv.innerHTML = upperdiv.innerHTML + `<div class="message">
-                <div class="usermessagediv">
-                        <div class="usermessage">
-                            ${userinput}
-                        </div>
-                </div>
-            </div>`
-            sendbtn.disabled = true
-            userinputarea.disabled = true
-            scrollToBottom()
-            document.getElementById('userinput').value = ""
-            document.getElementById('userinput').placeholder = "Cevap alınıyor. Lütfen bekleyiniz . . ."
-			const url ="https://chatbot-app-tohylic-958081a72134.herokuapp.com/data";
-			const url2="http://127.0.0.1:5000/data";
-            const response = await fetch(url, {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                },
-                body: JSON.stringify({ data: userinput })
-
-
-            });
-            let json = await response.json();
-
-            document.getElementById('userinput').placeholder = "Mesajınız..."
-   
-
-            if (json.response) {
-                let message = json.message
-                message = message.toString()
-      
-                upperdiv.innerHTML = upperdiv.innerHTML + `<div class="message">
-                <div class="appmessagediv">
-                    <div class="appmessage" id="temp">
-                        
-                    </div>
-                </div>
-            </div>`
-                let temp = document.getElementById('temp')
-                let index = 0
-                function displayNextLetter() {
-                    scrollToBottom()
-                    if (index < message.length) {
-                        temp.innerHTML = temp.innerHTML + message[index];
-                        index++;
-                        setTimeout(displayNextLetter, 30);
-                    } else {
-                        temp.removeAttribute('id')
-                        sendbtn.disabled = false
-                        userinputarea.disabled = false
-                    }
-                }
-                displayNextLetter()
-                scrollToBottom()
-
-            }
-            else {
-                let message = json.message
-                upperdiv.innerHTML = upperdiv.innerHTML +
-                    `<div class="message">
-                <div class="appmessagediv">
-                    <div class="appmessage"  style="border: 1px solid red;">
-                      ${message}
-
-                    </div>
-                </div>
-            </div>`
-                sendbtn.disabled = false
-                userinputarea.disabled = false
-            }
-
-            scrollToBottom()
-
-
-        } 
-    </script>
+	
+</div>
+</div>
 </body>
 
 </html>

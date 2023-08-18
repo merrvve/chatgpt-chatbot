@@ -4,6 +4,7 @@ import requests,openai,os
 from dotenv.main import load_dotenv
 app = Flask(__name__)
 CORS(app)
+app.debug = True;
 
 load_dotenv()
 API = os.environ['API']
