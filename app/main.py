@@ -13,7 +13,7 @@ def index():
     return render_template('index.html')
     
 @app.route('/legas')
-def index():
+def legas():
     return render_template('legas.html')
     
 
