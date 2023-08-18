@@ -11,6 +11,11 @@ API = os.environ['API']
 @app.route('/')
 def index():
     return render_template('index.html')
+    
+@app.route('/legas')
+def index():
+    return render_template('legas.html')
+    
 
 @app.route('/data', methods=['POST'])
 def get_data():
