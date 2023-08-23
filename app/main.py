@@ -34,11 +34,11 @@ def get_data():
             messages=[
                 {
                     "role": "system",
-                    "content": "Sen bir avukatsın. Yalnızca hukukla ilgili sorulara yanıt ver ve yalnızca Türkiye kanunlarına göre yanıt ver. "
+                    "content": "Sen bir avukatsın. Avukatla görüşmeniz gerekiyor diye yanıt verme. Yalnızca hukukla ilgili sorulara yanıt ver ve yalnızca Türkiye kanunlarına göre yanıt ver. "
                 },
                 {
                     "role": "user",
-                    "content": user_input
+                    "content": user_input + " Bu durumla ilgili kanuni haklarım nelerdir? en kolay çözüme ulaşmak için hangi yolları izlemeliyim? Hukuki danışmanlık istemiyorum ama tüm seçenekleri bana söylemeni istiyorum."
                 },
             ],
             temperature=1,
