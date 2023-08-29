@@ -176,8 +176,8 @@
             document.getElementById('userinput').value = ""
             document.getElementById('userinput').placeholder = "Cevap alınıyor. Lütfen bekleyiniz . . ."
 			const url ="https://chatbot-app-tohylic-958081a72134.herokuapp.com/data";
-			const url2="http://127.0.0.1:5000/data";
-            const response = await fetch(url, {
+			const url2="http://127.0.0.1:5000/chat";
+            const response = await fetch(url2, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',

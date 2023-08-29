@@ -1,0 +1,789 @@
+LegAs (Legal Assistance)
+İÇERİK
+Ad-Soyad
+E-posta
+Telefon
+Konu
+
+UYARI-SORUMLULUK REDDİ
+LegAs bir yapay zeka uygulamasıdır. Altıntaş Hukuk & Danışmanlık tarafından kullanıcılara ücretsiz olarak yapay zeka kullanarak hukuki bilgi edinmesi sağlanmaktadır. Buradan elde edilecek bilgiler, hiçbir şekilde Altıntaş Hukuk & Danışmanlık tarafından hukuki denetim ve incelemeye tabi tutulmamaktadır. 
+
+LegAs yapay zeka alt yapısı kullanılarak elde edilen bilgilerin hukuki sorun ve ihtiyaçlarınıza tümüyle doğru, kesin, tam sonuç vereceği veya çözüm üreteceği anlamı çıkmayacaktır. Bu nedenle herhangi bir karar vermeden önce hukuki danışmanlık hizmeti almanız önerilmektedir. Bu hizmeti kullanarak elde edeceğiniz sonuçlardan, vereceğiniz kararlardan Altıntaş Hukuk & Danışmanlık sorumlu değildir.
+
+ÖRNEK SORU KALIPLARI
+
+Aile Hukuku
+Soru:    Eşim bana fiziksel, ekonomik ve psikolojik şiddet uyguladı. Bu nedenlerle boşanabilir miyim?
+Cevap: Evet, Türk Medeni Kanunu'na göre fiziksel, ekonomik ve psikolojik şiddet gibi sebepler, evlilik birliğinin temelinden sarsılmasına neden olabilir ve boşanma sebepleri arasında sayılabilir. Bu sebeple açılacak davalarda genel olarak TMK Madde 162/1 ‘ de ifade edilen hali ile “Hayata Kast, Pek Kötü Muamele ya da Onur Kırıcı Davranış” gibi sebeplerle boşanma davası açılabilir. 
+
+Boşanma talebinizi mahkemeye iletebilmek için, şiddetin meydana geldiği olayları ispat edebilecek delil ve kanıtlara sahip olmanız önemlidir. Fiziksel şiddet durumunda, tıbbi raporlar, fotoğraflar veya polis raporları gibi delilleri sunabilirsiniz. Ekonomik şiddet durumunda, banka kayıtları, alacak verecek belgeleri veya finansal zorluklarınızı gösteren diğer belgeleri delil olarak sunabilirsiniz. Psikolojik şiddet durumunda, mesajlar, e-postalar, tanık ifadeleri ve psikolojik danışmanlık kayıtları gibi deliller sunulabilir. 
+
+Fiziksel ve Psikolojik Şiddete dayalı boşanma davalarında görevli mahkeme aile mahkemeleridir. Bulunduğunuz belde de aile mahkemesi yok ise asliye hukuk mahkemeleri genel görevli mahkeme olarak aile hukuku davanıza da bakacaktır.  Türk Medeni Kanun Madde 168 çerçevesinde boşanma ve ayrılık davalarında yetkili mahkeme, eşlerden birinin yerleşim yeri mahkemesi veya davadan önce son defa altı aydan beri birlikte oturdukları yer mahkemesidir. 
+
+
+Soru:  Eşimin ailesi bana psikolojik şiddet uyguluyor. Bu durum boşanma sebebi olarak kabul edilebilir mi?
+Cevap: Evet, eşinizin ailesi tarafından size uygulanan psikolojik şiddet de boşanma sebebi olarak kabul edilebilir. Türk Medeni Kanunu'na göre, evlilik birliğinin temelinden sarsılmasına neden olan psikolojik şiddet de boşanma sebepleri arasında yer alır. Açacağınız boşanma davasında, bu şiddeti ispatlayabileceğiniz delil ve kanıtlara sahip olmanız önemlidir. Psikolojik şiddet durumunda, mesajlar, e-postalar, tanık ifadeleri ve psikolojik danışmanlık kayıtları gibi delilleri mahkemeye sunabilirsiniz.
+Ayrıca, psikolojik şiddetin sizin üzerinizdeki etkilerini tıbbi kayıtlar veya uzman görüşleri ile desteklemek de önemlidir. Mahkeme bu delilleri dikkate alarak kararını verecektir.
+Boşanma davalarında görevli mahkeme aile mahkemeleridir. Bulunduğunuz yerde aile mahkemesi bulunmuyorsa, asliye hukuk mahkemeleri genel görevli mahkeme olarak boşanma davalarına bakacaktır. Türk Medeni Kanun Madde 168'e göre, boşanma davalarında yetkili mahkeme, eşlerden birinin yerleşim yeri mahkemesi veya son altı ay boyunca birlikte oturdukları yer mahkemesidir.
+
+Soru:    Eşim annemin ekonomik ihtiyaçlarını gidermiyor. Bu bir boşanma sebebi midir?
+Cevap: Hayır, eşinizin annenin ekonomik ihtiyaçlarını gidermemesi tek başına bir boşanma sebebi olarak kabul edilmez. Türk Medeni Kanunu'na göre, boşanma sebepleri arasında “eşlerin ailesine karşı ekonomik şiddet veya ekonomik sorunlar” yer almaz. Ancak, eşinizin size ve hane halkına yönelik ekonomik şiddet uyguladığını veya maddi yönden gereken sorumluluğunu yerine getirmediğini ispatlayabilirseniz, bu durumda ekonomik şiddet veya aile nafakası talepleriyle ilgili olarak ayrı bir dava açabilirsiniz.
+
+Bu tür bir durumla karşılaştığınızda, elde edilebilecek tüm delilleri toplamanız önemlidir. Eşinizin ekonomik sorumluluklarını yerine getirmediğine dair banka kayıtları, ödeme belgeleri veya diğer finansal kanıtlar gibi belgeleri toplayabilirsiniz. Bu tür bir davanın sonucu mahkemeye bağlı olacaktır ve hâkim, kanıtları ve durumu değerlendirerek karar verecektir.
+
+Soru:    Eşimin başkasından çocuğu olduğunu düşünüyorum. Bu durumu nasıl kanıtlarım? 
+Cevap: Eşinizin başkasından çocuğu olduğunu düşündüğünüz durumu kanıtlamanız için bazı deliller sunmanız gerekmektedir. Türk Medeni Kanunu'na göre, bilirkişi incelemesi, DNA testi veya başka uygun deliller bu tür durumları kanıtlamak için kullanılabilir.
+
+DNA testi, genetik olarak biyolojik bağlantıyı belirlemek için kullanılan yaygın bir yöntemdir. DNA testi mahkeme tarafından talep edilebileceği gibi kişilerin kendi istekleri üzerine özel laboratuvarlarda da yapılabilmektedir. DNA testinin mahkeme tarafından talep edilmesi halinde DNA testi Adli Tıp Kurumu'nda yapılır ve ücreti devlet tarafından karşılanmaktadır.  Eşinizin ve çocuğun DNA örneklerinin alınması, bir laboratuvar ortamında test edilmesi ve sonuçların değerlendirilmesi gerekmektedir. DNA testi sonuçları, eşinizin biyolojik olarak çocuğun ebeveyni olup olmadığını belirlemek için önemli kanıtlar sağlayabilir.
+
+Bunun yanı sıra, tanıklar da kanıt sunmanızda yardımcı olabilir. Eğer çocuğun biyolojik babasının kim olduğunu doğrulayabilecek tanıklarınız varsa, onların ifadeleri de davanızı destekleyebilir. Ancak, tanıkların ifadeleri güvenilirliği kanıtlayabilecek nitelikte olmalı ve mahkemenin dikkate alacağı temelde olmalıdır.
+
+Soru:   Eşim uzun süredir aile konutunu terk etmiş olup başka bir evde yaşamaya devam ediyor. Eve bir daha dönmeyeceğini söyledi. Bu yüzden boşanma davası açmak istiyorum. Bu süreci nasıl başlatırım? Hangi belgelere ihtiyacım var?
+Cevap: Eşinizin aile konutunu terk etmesi ve başka bir kadınla yaşamaya devam etmesi durumu, Türk Medeni Kanunu'na göre boşanma sebebi olarak kabul edilir. Terk edilen eşin ilk bakması gereken kanun hükmü TMK m. 164’tür. Bu hükme göre kanun koyucu bazı şartlar aramaktadır. Eşler, evlilikten doğan yükümlülüklerinden kaçmak için diğerini terk etmiş veya haklı bir sebep olmaksızın ortak konuta dönmemiş ve ayrılığın en az 6 ay sürmüş olması gerekmektedir. Terk edilen eşin bu sebebe dayanarak boşanma davası açabilmesi için hakim veya noter tarafından terk eden eşe ihtar çekilmelidir. Hakim veya noter tarafından yapılan ihtar sonuçsuz kalmış yani ihtardan sonra 2 ay içerisinde terk eden eşin eve dönmemiş ise boşanma davası açabilirsiniz. 
+Ayrıca eşinizin aile konutunu terk ettiğini ve başka bir kadınla yaşadığını kanıtlayacak delillere ihtiyacınız olacak. Tanıkların ifadeleri, şahit bildirimi, fotoğraflar, sosyal medya paylaşımları, mesajlar veya e-postalar gibi deliller bu durumu doğrulamak için kullanılabilir.
+
+Soru:  Eşim uzun zamandır işsiz. Hiçbir yerde çalışmak istemiyor. Eşimin evlilik birliği içindeki sorumlulukları nelerdir? Çalışmayan eşime karşı boşanma davası açabilir miyim?
+Cevap: Türk Medeni Kanunu'na göre, evlilik birliği içerisindeki eşlere, evlilik birliğinin devam ettiği sürece, birbirlerine karşı belirli sorumluluklar ve yükümlülükler yüklenmektedir. Bu yükümlülükler arasında, ekonomik olarak katkıda bulunma, aile birliğinin idaresine katılma, ev işlerine yardım etme ve çocukların bakımı ve eğitimi gibi sorumluluklar bulunmaktadır.
+
+Dolayısıyla, eşinizin işsiz olması ve çalışmak istememesi durumunda, bu sorumlulukları yerine getirmemesi evlilik birliğinin temelinden sarsılmasına neden olabilir. Boşanma davası açmak için, bu durumu ispat etmeniz önemlidir. İşsizlik durumunu kanıtlamak için eşinizin iş arama çabalarını, iş başvurularını veya iş bulmak için yaptığı herhangi bir eylemi delil olarak sunabilirsiniz.
+
+Ancak, işsizlik tek başına bir boşanma sebebi olarak yeterli olmayabilir. Mahkeme, eşinizin çalışmamasının, evlilik birliğinin temelinden sarsılmasına veya devamının beklenemeyecek derecede zorlaşmasına neden olup olmadığına bakacaktır.
+
+Soru:   Evlilik birliği içerisinde edindiğimiz malvarlıkları boşanma durumunda nasıl paylaşılır?
+Cevap: Türk Medeni Kanunu'na göre, evlilik birliği içerisinde edinilen malvarlıklarının boşanma durumunda nasıl paylaşılacağına dair hükümler bulunmaktadır. TMK'ya göre, evlilik birliği süresince edinilen malvarlığı, eşler arasında ortak mal rejimi olarak kabul edilmektedir.
+
+Ortak mal rejimi, evlilik birliğinin devam ettiği sürece, eşlerin ortak çabaları, katkıları ve malların birleşmesiyle oluşan malvarlığıdır. Bu malvarlığı, eşlerin ortaklaşa sahip olduğu bir mal rejimi olarak kabul edilir ve boşanma durumunda paylaşılır.
+
+Boşanma durumunda, eşlerin malvarlığı paylaşımı genel olarak iki şekilde gerçekleşebilir: anlaşmalı boşanma veya dava sonucu boşanma.
+
+Anlaşmalı boşanma durumunda, eşler, malvarlığı paylaşımı konusunda anlaşmaya varabilirler. Ancak, anlaşmanın geçerli ve adil olması için her iki tarafın da anlaşmayı gönüllü olarak kabul etmesi ve uygun bir şekilde temsil edilmesi önemlidir.
+Dava sonucu boşanma durumunda mal paylaşımı, tarafların evlilik birliği içinde edindiği malların paylaşılması esasına dayanır. Bu nedenle evlilikten önce elde edilen mallar hiçbir surette mal paylaşımına dahil edilemez. Evlilik birliği içinde edinilen malların paylaşımında kural, malların yarı yarıya paylaşımı ise de bu kuralın paylaşım oranını değiştiren bazı uygulama esasları vardır. Boşanma sırasında mallar paylaşılırken ana hatlarıyla şöyle bir prosedür işlemeye başlar:
+Boşanmada mal paylaşımı yapılırken öncelikle her eş kendi kişisel mallarını geri alır, yani bu mallar paylaşıma dahil edilmez. Kişisel mal sayılan bu mallar şunlardır:
+Mal rejiminin başlangıcında eşlerden birine ait bulunan veya bir eşin sonradan miras yoluyla ya da herhangi bir şekilde karşılıksız kazanma yoluyla elde ettiği malvarlığı değerleri,
+Eşlerin üçüncü kişilerden olan manevi tazminat alacakları,
+Eşlerden birinin yalnız kişisel kullanımına hasredilebilecek eşyalar,
+Yukarıdaki kişisel mallar yerine geçen değerler (Satış, takas vs. yoluyla kişisel mallar yerine geçen para veya diğer değerler).
+
+Her eş kendi kişisel mallarını aldıktan sonra evlilik içerisinde elde edilen “edinilmiş mallar” yarı yarıya paylaşılır. Evlilik içerisinde elde edilen “edinilmiş mallar” kanunda şu şekilde tarif edilmiştir:
+
+Çalışmasının karşılığı olan edimler,
+Yukarıda saydığımız kişisel malların gelirleri (malın kendisi değil, geliri hesaba katılır mesela kişisel malın kira geliri),
+SGK veya sosyal yardım kurum ve kuruluşlarının veya personele yardım amacıyla kurulan sandık ve benzerlerinin yaptığı ödemeler,
+Çalışma gücünün kaybı nedeniyle ödenen maddi tazminatlar (örneğin çalışan eşin iş kazası geçirmesi nedeniyle elde ettiği maddi tazminat),
+Edinilmiş malların yerine geçen değerler.
+.
+
+Soru:    Boşandıktan sonra kendim ve çocuklarım için eşimden nasıl nafaka alabilirim?
+Cevap: Boşandıktan sonra kendiniz ve çocuklarınız için nafaka talep etmek için birkaç seçeneğiniz vardır. Türk Medeni Kanunu uyarınca, boşanma davası sırasında veya boşanma kararı sonrasında nafaka talep edebilirsiniz.
+
+Tedbir Nafakası: Tedbir nafakası boşanma davası devam ederken eşlerden birinin diğerinden istediği nafaka türüdür. Tedbir nafakası eşin kendisi için ya da ergin olmamış çocuk için talep edilebilir. Tedbir nafakası geçici nitelikte bir hukuki müessesedir ve talep eden tarafın kusursuz olmasına gerek yoktur. Hâkimin inceleyeceği tek şey tarafların ekonomik durumudur. Tedbir nafakası ekonomik bakımdan zor durumunda bulunan eşin barınmasına, geçimine, mallarının yönetimine ve çocukların bakım ve korunmasına ilişkindir. Geçici bir tedbir olması nedeniyle davanın sona ermesi ile tedbir nafakasının kaldırılmasına karar verilir.
+
+Yoksulluk Nafakası: Boşanma yüzünden yoksulluğa düşecek eş diğer eşten malî gücü oranında süresiz olarak nafaka isteyebilir. Yoksulluk nafakası TMK Madde 175’te şöyle tanımlanmıştır: “Boşanma yüzünden yoksulluğa düşecek taraf, kusuru daha ağır olmamak koşuluyla geçimi için diğer taraftan malî gücü oranında süresiz olarak nafaka isteyebilir. Nafaka yükümlüsünün kusuru aranmaz.”
+
+İştirak Nafakası: Eğer çocuklarınız varsa, boşanma kararı sonrasında eşinizden çocuklarınızın bakım ve eğitim masraflarını karşılaması için çocuklarınız adına nafaka talep edebilirsiniz. TMK 328’inci madde uyarınca iştirak nafakası çocuğun ergin olmasına kadar devam eder. Buradan anlaşılması gereken çocuğun 18 yaşını doldurması, mahkeme kararı ile ergin kılınması ya da evlenmesidir. Ancak çocuk ergin olsa bile eğitimine devam ediyorsa(örneğin üniversiteye gidiyor) çocuğun eğitimi sona erene kadar nafaka yükümü devam eder.
+Nafaka talebi için mahkemeye başvurmanız gerekmektedir. Dava sürecinde, gelir durumu, ekonomik durumu, yaşam standardı, çalışma kapasitesi gibi faktörler dikkate alınacaktır. Bu nedenle, avukatla iletişime geçmek ve size özel nafaka taleplerinizi belirlemek önemlidir. Unutmayın, nafaka miktarı ve süresi davanın özelliklerine göre değişebilir ve mahkemeye bağlıdır.
+
+İş ve Sosyal Güvenlik Hukuku
+Soru: Çalıştığım iş yerinde 5 yıllık kıdemim var. Son brüt maaşım 20.000 TL. Bu verilere göre Kıdem tazminatı alacağı nasıl hesaplanır? 
+Cevap: İşçinin kıdem tazminatına hak kazanabilmesi için her şeyden önce iş akdinin sona erdiği tarihte işyerinde en az bir yıllık kıdeminin bulunması zorunludur. Bu koşul İş Kanunu’nun 14. maddesinde açıkça belirtilmiştir. Ancak anılan maddenin 1. Fıkrasında “İşçinin işe başladığı tarihten itibaren hizmet akdinin devamı süresince her geçen tam yıl için işverence işçiye 30 günlük ücreti tutarında kıdem tazminatı ödenir. Bir yıldan artan süreler için de aynı oran üzerinden ödeme yapılır” denilmektedir. Sizin çalıştığını yerde 5 yıllık kıdeminiz olması sebebiyle bu şartı sağlamaktasınız. 
+
+İşçinin kıdem tazminatına hak kazanabilmesinin ikinci koşulu iş akdinin İş Kanunu’nun 14. maddesinde sayılı hallerden biri nedeniyle sona ermesidir. Bu sona erme, işçi veya işveren tarafından anılan maddede sayılan bazı hallere dayanılarak iş akdinin feshi sonucunda ortaya çıkabileceği gibi işçinin ölümü nedeniyle de gerçekleşmiş olabilir.
+
+İş Kanunu’nun 14. maddesinde öngörülenlerin dışında kalan sona erme hallerinde örneğin, iş akdinin taraflarının anlaşması, belirli süresinin dolması gibi bir fesih niteliği taşımayan nedenlerden son bulması veya işçinin süreli feshi (istifası) durumunda bu tazminatın ödenmesi söz konusu olmaz. Buna karşılık, sözleşmelerle işçi lehine değişiklik yapılarak İş Kanunu’nun 14. Maddesinde belirtilen hallerin dışında da örneğin işçinin istifası halinde kıdem tazminatı ödeneceği kararlaştırılabilir.
+
+İş Kanunu’nun 14. Maddesinde öngörülenlerin dışında kalan sona erme hallerinde örneğin iş akdinin tarafların anlaşması (ikale), belirli süresinin dolması gibi bir fesih niteliği taşımayan nedenlerle son bulması veya işçinin süreli fesih (istifa) durumunda kıdem tazminatı ödenmesi durumu söz konusu olmayacaktır.
+
+Bu şartların tümünü sağlamanız şartıyla; çalıştığınız iş yerindeki 5 yıllık kıdem sürenize ve son brüt maaşınıza göre kıdem tazminatı hesaplanır. Kıdem tazminatı işçinin çalıştığı süre ve son maaşı dikkate alınarak belirlenir.
+
+Kıdem tazminatının hesaplanması için kullanılan genel formül şu şekildedir:
+Kıdem Tazminatı = (Brüt Maaş / 30) x (Kıdem Yılı x 30 + Kıdem Günü)
+Örneğin, son brüt maaşınız 20.000 TL ve 5 yıl (1.825 gün) çalışmışsanız, kıdem tazminatınız aşağıdaki şekilde hesaplanabilir:
+Kıdem Tazminatı = (20.000 / 30) x (5 x 30 + 0) = 33.333,33 TL
+Bu formülde, brüt maaşınızı 30'a böleriz çünkü aylık maaşın günlük değerini hesaplamak için kullanılır. Ardından, kıdem yılını 30 ile çarparız çünkü 1 yıl 30 günden oluşur. Eğer kıdem yılında 30 günden fazla çalıştıysanız, kalan günleri de eklersiniz.
+
+
+Soru: Bir çalışanın işverenine karşı açtığı mobbing davasında, kanıtların toplanması ve mahkemeye sunulması sürecinde nelere dikkat etmeliyim?
+Cevap: Mobbing, bir çalışanın sürekli ve tekrarlayan şekilde maruz kaldığı, onun itibarını zedeleyen, çalışma ortamını olumsuz etkileyen ve psikolojik/duygusal zararları olan bir davranış biçimidir. Mağdurlar mobbingin sonuçlarından fiziksel, psikolojik ve sosyal açıdan olumsuz etkilenebilirler.
+
+Mobbing davasında, kanıtların toplanması ve mahkemeye sunulması sürecinde birkaç önemli noktaya dikkat etmek gerekir:
+
+Kanıtları toplamak için zaman kaybetmeden harekete geçin: Mobbing davalarında zamanlama önemlidir. Olaylar hafızalardan silinmeden, belirli bir süre içinde delillerin toplanması önemlidir. Her şeyi hafızanızda tutmanız zor olabilir, bu yüzden mümkün olduğunca erken bir tarihte delilleri toplamaya başlamalısınız.
+
+Olayları belgeleyin: Mobbinge uğradığınızı düşündüğünüz olaylarla ilgili her şeyi belgelemek önemlidir. Bu, yazılı belgeler, e-postalar, mesajlar, tanık beyanları, fotoğraflar veya videolar olabilir. Bu delilleri mümkün olduğunca kapsamlı bir şekilde derleyin.
+
+Tanıkların ifadelerini alın: Mobbing davalarında tanıkların ifadeleri önemli bir delil niteliği taşır. Olaylara tanık olan diğer çalışanların ifadesini almak için onlarla iletişime geçin ve gerekirse ifadelerini yazılı olarak alın.
+
+Sağlık raporu alın: Mobbingin etkileri genellikle fiziksel ve psikolojik sağlık sorunlarına yol açar. Bu nedenle, bir doktora giderek sağlık durumunuzu belirten bir rapor almanız önemlidir. Rapor, mobbingin yol açtığı zararları belgelemek için mahkemede kullanılabilir.
+
+Soru: İşverenim beni sigortasız çalıştırıyor. Bu durumda hangi kuruma başvurmalıyım? Başvuru yaparken herhangi bir belgeye ihtiyaç duyulur mu? 
+Cevap: İşvereninizin sizi sigortasız çalıştırması durumunda, bu durumu çalıştığınız iş yerindeki iş güvenliği birimiyle veya işvereninizle görüşmeniz önemlidir. İş güvenliği birimi veya işvereniniz, sigortasız çalışmanın yasal olmadığını ve gereken düzenlemelerin yapılması gerektiğini hatırlatabilir.
+
+Geriye dönük olarak sigortasız çalıştırılan günlerin ispatlanmasında ve bu günlerin hizmetten sayılmasının sağlanmasında farklı yollar vardır. Bunlardan ilki hizmet tespiti davası açmaktır. Hizmet Tespiti davasında işçinin geçmişte sigortasız çalıştığını ispatlamak için en sık kullanılan yol, tanık göstermektir. Buna yönelik olarak işçi kendisiyle aynı dönemde çalıştığı işçileri tanık gösterilebilir. 
+
+Bir başka yol ise, çalışmanın yapıldığı işyerinin bağlı bulunduğu SGK Sosyal Güvenlik İl Müdürlüğüne veya Sosyal Güvenlik Merkezine şikayet dilekçesi vermek veya ALO 170’e şikayette bulunmaktır. SGK’ya yapılan şikayetlerle ilgili olarak da, işçi işten ayrıldıktan sonra çalıştığını iddia ettiği dönemleri ispatlayabilmesi, bunları belgelendirebilmesi ve söz konusu belgelerin de SGK’nın delil olarak kabul edeceği belgelerden olması gerekmektedir.
+
+Şikayet dilekçesinde işçinin çalıştığı işyerinin adı/unvanı, adresi, işverenin adı, biliniyorsa işyerinin SGK işyeri sicil (dosya) numarası, söz konusu işyerinde hangi tarihler arası çalışıldığı gibi bilgiler açıkça yazılmalı, dilekçenin sağ altına şikayette bulunanın isim ve imzası, sol altına da şikayette bulunanın T. C. Kimlik Numarası, açık adresi, telefon numarası gibi bilgiler yazılmalı, şikayette bulunduğu işyerindeki çalışmalarına ait belgeler varsa onların fotokopileri de eklenmelidir.
+
+Soru: İşverenim, beni görev yerim olan satış müdürlüğünden alıp depo görevlisi yaptı. Bunun için ne yapabilirim? 
+Cevap: Çalışma koşullarının işçi açısından olumsuz olarak değiştirilmesi ancak işçinin kabulü ile mümkündür, işçinin kabul etmeyeceği değişiklikler yapılamaz. İşçinin çalışma koşulları işçinin kabulü dışında değiştirilir ve işçi değişen çalışma koşullarında çalışmaya zorlanırsa işçi iş sözleşmesini haklı nedenlerle feshetme hakkına sahip olur.
+
+İş Kanunu’nun 22. maddesine göre; İşveren, iş sözleşmesiyle veya iş sözleşmesinin eki niteliğindeki personel yönetmeliği ve benzeri kaynaklar ya da işyeri uygulamasıyla oluşan çalışma koşullarında esaslı bir değişikliği ancak durumu işçiye yazılı olarak bildirmek suretiyle yapabilir. Bu şekle uygun olarak yapılmayan ve işçi tarafından altı işgünü içinde yazılı olarak kabul edilmeyen değişiklikler işçiyi bağlamaz. 
+
+Eğer işvereniniz sizi görev yeriniz olan satış müdürlüğünden alıp depo görevlisi yapmak istiyorsa ve bu değişiklik sizinle ilgili haklı bir sebep olmaksızın ve sizin rızanız dışında gerçekleştirilmişse, bu durumu kabul etmek zorunda değilsiniz. İşvereninizin böyle bir değişiklik yapması halinde, haklı nedenle fesih hakkına sahip olursunuz. fiili olarak işi bırakarak fesih yapabilirsiniz, işverene ihtar çekmek zorunda değilsiniz ama ispat konusunda zorluğa düşeceğini düşünüyor iseniz ihtar çekmek, değişen iş koşuları ile iş sözleşmesini feshettiğini belirtmek faydalı olacaktır.
+
+İşvereniniz bu pozisyonu kabul etmediğiniz için sizi işten çıkarır ise kıdem ve ihbar tazminatını ödemek zorundadır.
+
+Soru: İşyerinde tacize uğradım. Bunu işverenime bildirmeme rağmen şirket itibarının zedelenmemesi adına sessiz kalmamı istedi ve olayın üstüne kapattı. İşten ayrılmak istiyorum bu durumu nasıl kanıtlarım?
+Cevap: İşyerinde taciz yaşadığınız durumu kanıtlamak için aşağıdaki adımları takip edebilirsiniz:
+
+Kanıtları Toplayın: Taciz olayına dair her türlü kanıtı toplamak önemlidir. E-postalar, mesajlar, tanıklar, güvenlik kamerası kayıtları, tacizciyle yapılan toplantıların tutanakları gibi her türlü delil, durumu kanıtlamada yardımcı olabilir.
+
+Tacizi Bildirin: İlk adım olarak, tacizi işvereninize resmi olarak bildirmeniz önemlidir. Taciz durumunu yazılı olarak işverene bildirebilir ve bir kopyasını saklayabilirsiniz. Bu yazıda, yaşanan olayın tarihini ve detaylarını açıkça belirtmeniz önemlidir.
+
+Şikayet Mekanizmasını Kullanın: İşyerindeki taciz durumuyla ilgili mevcut bir şikayet mekanizması varsa, bu mekanizmayı kullanarak durumu resmi bir şekilde rapor edebilirsiniz. İşyerinizin insan kaynakları departmanına veya üst düzey yöneticilere başvurabilirsiniz.
+
+Hukuki Destek Alın: İşyerinde yaşadığınız taciz durumuyla ilgili hukuki destek almak önemlidir. Bir avukata danışarak durumu anlatabilir ve haklarınızı korumak için adımlar atabilirsiniz. Avukatınız size daha detaylı ve işin iç yüzünü anlamak için özel tavsiyelerde bulunabilir.
+
+Delillerinizi Saklayın: Taciz durumuna dair topladığınız tüm delilleri saklamak önemlidir. E-postaları ve diğer belgeleri kopyalayın, tanıkların ifadelerini kaydedin ve güvenlik kamerası kayıtlarını koruyun. Bu deliller, tacizi kanıtlamak için mahkemede veya müfettişler önünde kullanılabilir.
+
+İşten Ayrılma Talebinde Bulunun: Taciz durumu hala devam ediyorsa veya işvereniniz durumu çözmek için bir şey yapmıyorsa, işten ayrılma talebinde bulunabilirsiniz. Bu durumu yazılı olarak belirtmeniz ve gerekirse noter onaylı olarak iletebilmeniz önemlidir.
+
+Soru: İşverenim maaşıma zam yapmadı. Bu durumda ne yapılabilir?
+Cevap: İşçi ve işveren arasında iş başlangıcında her sene yapılacak zam oranına ilişkin olarak bir iş sözleşmesi bulunmamakta ise işveren her sene işçiye zam yapmak zorunluluğunda bulunmamaktadır. Bu sebepler ile işçi, işyerinde bir senesi dolduktan veya devam eden senelerde kendisine zam yapılmadığı için işvereni zam yapmaya zorlayamayacağı gibi bu sebepler ile de iş sözleşmesini haklı sebepler ile feshedemeyecektir.
+
+Ancak işvereniniz ile aranızda her sene zam yapılacağı ve yapılacak zam oranının belirlendiği bir sözleşme var ise işvereniniz her sene taahhüt ettiği zammı yapmak zorunda olacaktır. İşvereninizin size taahhüt ettiği bu zammı yapmaması halinde iş sözleşmesini haklı nedenler ile feshetme imkânınız bulunmaktadır. Yani size vaat edilen zam yapılmadığında, öncelikle işverenden bu zammı talep edip, işveren tarafından yine de zam yapılmaması halinde ise bu defa iş sözleşmesini haklı nedenler ile feshedebilir ve işverenden kıdem tazminatını isteyebilirsiniz.
+
+Kira Hukuku
+Soru:   Ev sahibi kira bedelini yüzde yüz arttırmak istiyor. Ne yapmalıyım?
+Cevap: Ev sahibi, kira bedelini yüzde yüz arttırmak istediğinde, bu durumu değerlendirmeniz ve gerekli adımları atmanız önemlidir. Türkiye'deki kira hukuku, kira artışlarını belirlemek amacıyla belirli kurallar ve sınırlamalar getirmiştir. Normal şartlarda kira zammına üst sınır 12 aylık ortalama enflasyon üzerinden yapılır. 11 Haziran 2023 tarihiyle 1 Temmuz 2024 tarihleri arasında yenilenen kira sözleşmelerinde kiraya verenin ancak %25 oranında artış yapabileceği kuralı geçerlidir. Bu geçici düzenleme kapsamında bu kira zam oranı yüzde 25’te sabitlendi. Bu oranı geçecek şekilde yapılan yeni sözleşmeler geçersiz sayılacak. 
+
+Bu nedenle öncelikle ev sahibinize bu zam oranının yasalar gereği mümkün olmadığını geçici düzenleme kapsamında ancak %25 oranında artış yapılabileceğini belirtin ve ödemelerinizi bu artışa göre yapın.
+
+Soru:   Evimi kiralamak için bir kira sözleşmesi hazırlamam gerekiyor. Kiracı ve ev sahibi arasında tipik olarak bulunması gereken temel maddeler nelerdir?
+Cevap:  Kira sözleşmeleri, kiracı ve ev sahibi arasındaki anlaşmalara dayanarak düzenlenir. Burada, tipik olarak bulunması gereken bazı temel maddeleri aşağıda bulabilirsiniz:
+
+Tarafların kimlik bilgileri: Kiracının ve ev sahibinin tam isimleri, iletişim bilgileri ve kimlik numaraları gibi temel kimlik bilgileri açıkça belirtilmelidir.
+Kiralanan mülkün adresi ve tanımı: Kiralanan mülkün tam adresi, daire veya evin numarası, kullanım alanı, odaların sayısı gibi tanımlayıcı bilgiler belirtilmelidir.
+Kira bedeli ve ödeme koşulları: Sözleşmede, kira bedeli, aylık veya yıllık olarak belirlenir. Kiranın ne zaman, hangi şekilde ve hangi banka hesabına ödeneceği gibi ödeme koşulları belirtilmelidir.
+Kira süresi: Kiralama sözleşmesinde, kiralanan mülkün hangi tarihler arasında kiralandığı, sözleşmenin başlangıç ve bitiş tarihleri net bir şekilde belirtilmelidir.
+Depozito: Kiracının sözleşme süresince sorumluluğunu yerine getireceğini garanti altına almak amacıyla, ev sahibi depozito talep edebilir. Depozito tutarı, ne zaman ve nasıl iade edileceği gibi detaylar sözleşmede açıklanmalıdır.
+Kiralanan mülkün kullanım amacı: Kiralanan mülkün sadece hangi amaçla kullanılacağı (mesken, ticari, ofis vb.) belirtilmelidir.
+Sigorta sorumluluğu: Kiracının kiralanan mülkte meydana gelebilecek herhangi bir zarar veya hasara karşı sigorta poliçesi düzenlemesi gerekebilir. Sigorta sorumluluğu ve detayları sözleşmede açıklanmalıdır.
+Sözleşmenin sona ermesi ve fesih koşulları: Kiralama süresinin sona ermesi veya sözleşmenin nasıl feshedilebileceği gibi hususlar ayrıntılı bir şekilde belirtilmelidir.
+Ek hükümler: İhtiyaç durumunda, taraflar arasında özelleştirilmiş ek hükümler ve koşullar eklenmesi gerekebilir. Örneğin, kiracının evde tadilat yapma hakkı, ev sahibinin bazı bakım ve onarım sorumlulukları gibi.
+Bu temel maddeler, bir kira sözleşmesinde bulunması gereken önemli unsurlardır. 
+
+Soru:   Kira sözleşmem bir yıllık olup gelecek ay sona erecektir. Ev sahibi, kira sözleşme süresinin sona ermesi gerekçesiyle beni evden çıkarabilir mi?
+Cevap:  Kira sözleşmesi süresinin sona ermesi, ev sahibine kiracıyı evden çıkarabilme hakkı vermez. Kira sözleşmesi belirli süreli olması halinde sözleşme sona ermeden en az 15 gün önce bildirimde bulunularak kiracı tarafından feshedilebilir. Kiraya veren ancak 10 uzama yılının ardından uzayan yıldan 3 ay evvel bildirimde bulunmak suretiyle sözleşmeyi feshedebilir. Belirsiz süreli kira sözleşmelerinde ise kiracı 6 aylık kira dönemlerinin bitiminden 3 ay önce bildirimde bulunmak şartıyla sözleşmeyi feshedebilir.
+
+Özetle ev sahibi bir yıllık kira ilişkinizi, kanunda sayılan fesih sebeplerinin varlığını ileri sürmeden feshedemez. Kanunda sayılan tahliye sebepleri ise şu şekildedir:
+Kiraya verenden kaynaklanan tahliye sebepleri TBK m.350 ve 351’de düzenlenmiştir:
+Kiraya veren, kira sözleşmesini;
+Kiralananı kendisi, eşi, altsoyu, üstsoyu veya kanun gereği bakmakla yükümlü olduğu diğer kişiler için konut ya da işyeri gereksinimi sebebiyle kullanma zorunluluğu varsa,
+Kiralananın yeniden inşası veya imarı amacıyla esaslı onarımı, genişletilmesi ya da değiştirilmesi gerekli ve bu işler sırasında kiralananın kullanımı imkânsız ise,
+Belirli süreli sözleşmelerde sürenin sonunda, belirsiz süreli sözleşmelerde kiraya ilişkin genel hükümlere göre fesih dönemine ve fesih bildirimi için öngörülen sürelere uyularak (TBK m.328) belirlenecek tarihten başlayarak bir ay içinde açacağı dava ile sona erdirebilir.
+
+Kiracıdan Kaynaklanan Sebeplerle Tahliye Davası Açılması
+Kiracı, kiralayana belli tarihte kiralananı boşaltmayı yazılı olarak taahhüt etmiş ve taahhüt ettiği tarihte boşaltmamışsa kiraya veren, kira sözleşmesini bu tarihten başlayarak bir ay içinde icraya başvurmak veya dava açmak suretiyle sona erdirebilir.
+Kiracı, bir yıldan kısa süreli kira sözleşmelerinde kira süresi içinde; bir yıl ve daha uzun süreli kira sözleşmelerinde ise bir kira yılı veya bir kira yılını aşan süre içinde kira bedelini ödemediği için kendisine yazılı olarak iki haklı ihtarda bulunulmasına sebep olmuşsa kiraya veren, kira süresinin ve bir yıldan uzun süreli kiralarda ihtarların yapıldığı kira yılının bitiminden başlayarak bir ay içinde, dava yoluyla kira sözleşmesini sona erdirebilir.
+Kiracının veya birlikte yaşadığı eşinin aynı ilçe veya belde belediye sınırları içinde oturmaya elverişli bir konutu bulunması durumunda kiraya veren, kira sözleşmesinin kurulması sırasında bunu bilmiyorsa, sözleşmenin bitiminden başlayarak bir ay içinde sözleşmeyi dava yoluyla sona erdirebilir.
+Soru: Ev sahibi kiracısı olduğum evi başkasına satmış. Yeni malik beni evden çıkartabilir mi?
+Cevap: Ev sahibinin evi satması, kiracının oturma hakkını etkilemez. Evin satılması durumunda kiracının evden çıkma zorunluluğu bulunmamaktadır. Evi satan ev sahibi ile evde oturan kiracı arasında imzalanan kira sözleşmesi, evi yeni satın alan malik ile kiracı arasında devam eder. Evin satılması durumunda kiracıyla yeni sözleşme yapılması gerekmez. Kiralanan taşınmazın satılması durumunda, evi yeni satın alan kişinin de bazı hakları bulunmaktadır ancak yalnızca kiralanan taşınmazın el değiştirmesi durumu kiracının tahliyesi hakkı vermez.
+
+Taşınmaz içerisinde bulunan kiracıyı tahliye etmek isteyen yeni mülk sahibinin öncelikle haklı bir tahliye sebebi bulunması gerekmektedir. Yalnızca evin satın alınmış olması, yeni mülk sahibine kiracının tahliyesini isteme hakkı vermez. Yeni ev sahibinin kiracıyı evden çıkarabilmesi için konuta ihtiyacının olduğunu ispatlaması gerekmektedir.
+
+Taşınmazı satın alan yeni malik, kiracının tahliyesi için satın alma tarihinden itibaren bir ay içerisinde kiracıya ihtarname göndermesi gerekmektedir. Gönderilen ihtarname ile kiracıya altı aylık süre verilir. Süresi içerisinde tahliye edilmezse, yeni malik ihtiyaç sebebiyle tahliye davası açabilir.
+
+Soru:    Kiracı kirayı ödemiyor, tahliye etmiyor. Nasıl bir yol izlenebilir?
+Cevap: Kiracının kira ödememe veya tahliye etmeme gibi durumlarında izlenebilecek yollar Türk Borçlar Kanunu'nda belirtilmiştir. İşte size birkaç seçenek:
+Uyarı ve İhtar: Kiracının kira ödememesi veya tahliye etmemesi durumunda Türk Borçlar Kanunu'nun 352/2. maddesine göre, öncelikle kiracıya yazılı bir uyarı ve ihtar göndermek etkili bir adımdır. Kiracıya durumu bildiren bir ihtarname göndererek, kira ödemesi veya evi derhal boşaltması gerektiğini belirtmeniz önemlidir. Bu ihtarname aynı zamanda gelecekteki adli süreçlerde delil niteliği taşıyabilir. 
+
+Hukuki Süreç Başlatma: Kiracı, uyarıya rağmen hala kira ödemez veya evi boşaltmazsa, hukuki süreç başlatmak gerekir. Kiracının tahliyesini talep etmek ve kira borcunun tahsil edilmesi için icra takibi veya tahliye davası açma gibi adli yollara başvurabilirsiniz.
+
+Kira Ödemeyen Kiracı İçin Temerrüt Yoluyla Tahliye: Bunun için kiracıya iki haklı ihtarname gönderdikten sonra kira borcunun 30 gün içerisinde ödenmemesi halinde kira sözleşmesinin feshedileceği yönünde bildirimde bulunmak gerekir. 30 günlük sürenin ardından üçüncü bir ihtara gerek kalmaksızın kira ödemeyen kiracı tahliye davası ile karşı karşıya bırakılabilir. Temerrüt nedeniyle açılan tahliye davasında mülk sahibinin lehine bir karar çıkması durumunda icra dairesi tahliye işlemlerini yürütür.
+
+Kira Ödemeyen Kiracı İçin İcra Yoluyla Tahliye
+Kira ödemeyen kiracının tahliyesi için icra yoluna gitmek mümkündür. Tahliye talepli icra takibi yapıldığında icra dairesi yalnızca kira bedeli talebiyle değil aynı zamanda tahliye talebiyle de hareket etmektedir. Bu nedenle icra takibi başlatırken kira bedeli talepli olmamasına dikkat edilmelidir.
+
+
+
+Ceza Hukuku
+Soru:   Yaya geçidinde yürürken bir araba bana çarptı. Ne yapmalıyım? 
+Cevap: Öncelikle, yaralandıysanız sağlık durumunuzun önemli olduğunu unutmayın. Hemen bir sağlık hizmeti sağlayıcısından tıbbi yardım almanız önemlidir.
+Kaza yerindeki acil durumu güvence altına almak için aşağıdaki adımları izleyebilirsiniz:
+Olay Yerini Güvence Altına Alın: Yaya geçidinde gerçekleşen bir kazada, güvende olduğunuzdan emin olun. Mümkünse, trafikten uzaklaşmak veya ikinci bir kazaya yol açmamak için güvende bir yerde durun.
+İlgili Taraflarla İletişim Kurun: Kazayı gören kişilerin olup olmadığını kontrol edin ve varsa onlardan tanıklık için iletişim bilgilerini alın. Aynı şekilde, aracın sürücüsüyle iletişim kurun ve iletişim bilgilerini ve sigorta bilgilerini kaydedin.
+Kazayı Bildirin: Polis teşkilatına kaza bildirimini yapmanız gerekebilir. Özellikle ciddi yaralanmalar veya maddi zararlar meydana geldiyse, yetkililere haber vermek önemlidir. Polis raporu, kaza sonrası idari ve yasal işlemler için de önemli olabilir.
+Delilleri Toplayın: Kazayı doğrulamak ve tazminat talep etmek için elinizdeki tüm mevcut delilleri (fotoğraflar, videolar, tanıkların ifadeleri vb.) toplayın. Bu deliller, sorumluluğu belirlemek ve adil bir tazminat talep etmek için önemlidir.
+Sigorta Şirketiyle İletişim Kurun: Kazaya karışan aracın sigorta şirketiyle iletişime geçin ve kaza hakkında ayrıntıları bildirin. Sigorta şirketi genellikle size yol gösterecek ve tazminat talebinizin nasıl işlem göreceği konusunda size bilgi verecektir.
+Hukuki Yardım Alın: Eğer yaralanmalarınız ciddi ise veya tazminat talebiniz reddedilirse, bir avukattan hukuki yardım almanız önemlidir. Bir avukat, haklarınızı korumak ve size rehberlik etmek için sizinle çalışabilir.
+
+Soru:  Boş bir sokakta yürürken hiç tanımadığım birisi bana yumruk attı ancak isabet ettiremedi ben de ona kafa attım. Yere düştü kafası kaldırıma çarptı ve öldü. Başıma ne gelir?
+Cevap: Yaşadığınız durum oldukça ciddi bir olaydır. Ancak, her bir durum benzersizdir ve sonuçlar, olayın tam ayrıntılarına ve hukuki unsurlara bağlı olarak değişebilir. Genel olarak, durumun değerlendirmesinde aşağıdaki faktörler göz önüne alınmalıdır:
+
+Savunma: Saldırıya uğradığınızı ve kendinizi korumak amacıyla tepki verdiğinizi ispatlamak önemlidir. TCK m. 25'e göre, bir kişinin gerek kendisine gerekse başkasına ait bir hakka yönelmiş, gerçekleşen yahut gerçekleşmesi – tekrar etmesi pek muhtemel olan haksız bir saldırıyı defetmek amacıyla somut olayın özelliklerine göre saldırı ile orantılı bir fiil işlenmesine meşru müdafaa (meşru savunma) denilmektedir. Eğer gerekli koşullar sağlanıyorsa meşru müdafaa hükümlerinden yararlanabilirsiniz. Öz savunma argümanınız yasal değerlendirmede dikkate alınabilir.
+
+Olay yeri: Olayın yaşandığı yerde güvenlik kameraları varsa, bu görüntüler hukuki süreçte kanıt olarak kullanılabilir. Kamera kayıtlarının olayın seyrini destekleyip desteklemediği dikkate alınacaktır.
+
+Gerçek dışı müdahale: Siz tam olarak ne olduğunu gösteren bir şahit bulunmuyorsanız, tanık ifadeleri veya başka deliller gerçekleri ortaya koymak için önemlidir. Bu aşamada dikkatli bir soruşturma yapılması gerekecektir.
+
+Soru:    Metrobüsteyken telefonum çalındı. Ne yapmalıyım? 
+Cevap: İşte bu tür bir durumda yapmanız gerekenler:
+Hemen bildirin: Durumu en yakın polis merkezine bildirin. Telefonun marka, model ve IMEI numarası gibi bilgilere sahipseniz, bu bilgileri de paylaşmanız önemlidir. Bu şekilde telefonunuzu çalan kişi onu kullanamaz ve verilerinize erişemez.
+İletişimi kesin: Hırsızlık durumunda, çalınan telefonunuzun operatörünü arayarak hat bağlantısını kapatabilirsiniz. Durumu açıklayın ve hat bağlantısının geçici olarak askıya alınmasını isteyin.
+Uygulamalarınızı kontrol edin: Telefonunuzda yüklü olan hesaplar ve uygulamalar varsa, mümkün olduğunca hızlı bir şekilde bu hesaplara erişimi kapatın veya şifrelerinizi değiştirin. Özellikle finansal hesaplarınız ve sosyal medya platformları gibi hassas bilgiler içeren hesaplarınızı güvence altına almak önemlidir.
+Yedeklemelerinizi geri yükleyin: Eğer telefonunuzun yedeklemelerini düzenli olarak alıyorsanız, yeni bir telefon alarak bu yedeklemeleri geri yükleyebilirsiniz. Böylece en azından kişisel verilerinizi geri alabilirsiniz.
+Sigortanızı kontrol edin: Mümkünse, telefonunuzun sigorta kapsamında olup olmadığını kontrol edin. Sigortanız varsa, çalınan telefonunuzun değerini ve diğer gereklilikleri belirlemek için sigorta şirketinizle iletişime geçin.
+Şüpheli hareketlerden kaçının: Çalınan telefonunuzdaki bilgilere erişmek için kullanılabilecek potansiyel zararlı yazılımlardan korunmak için telefonunuzu takip etmeye çalışmayın veya karşı harekete geçmeyin. Bunun yerine güvenlik güçlerine bağlı kalın ve durumu onlara bildirin.
+
+Soru: 13 yaşındayım ve üvey babamla aynı evde yaşıyorum. Cinsel taciz ve şiddete maruz kalıyorum. Şikâyetçi olmak istiyorum. Bu durumu nasıl kanıtlarım? 
+Cevap: Size yaşadığınız bu ciddi durumdan dolayı üzgün olduğumu belirtmek isterim. Cinsel taciz ve şiddet gibi durumlar TCK kapsamında suç teşkil eder ve mutlaka karşılaşmış olduğunuz bu durumu yetişkin birine bildirmeniz önemlidir. TCK madde 105/1’e göre; “Bir kimseyi cinsel amaçlı olarak taciz eden kişi hakkında, mağdurun şikâyeti üzerine, üç aydan iki yıla kadar hapis cezasına veya adlî para cezasına fiilin çocuğa karşı işlenmesi hâlinde altı aydan üç yıla kadar hapis cezasına hükmolunur.” Hükmü bulunmaktadır. Suçun niteliğine göre de ceza artırılabilir.
+
+Eğer cinsel taciz ve şiddet durumunu kanıtlamak istiyorsanız, aşağıdaki adımları takip etmeniz önerilir:
+Hemen güvende olduğunuz bir yere geçin: Öncelikle, kendinizi güvenli bir ortama almanız ve tehlikeden uzaklaşmanız önemlidir. Ailenizin veya güvendiğiniz bir yetişkinin yanına gitmek, size destek olabilecek bir çevre bulmak veya polise başvurmak adına güvenli bir yer aramak en doğru adım olabilir.
+Detayları hatırlayın: Taciz veya şiddet eylemlerinin tarihini, yeri ve diğer önemli ayrıntıları hatırlamaya çalışın. Bu bilgiler polise veya yetişkin birine başvururken önemli olacaktır.
+
+Delilleri koruyun: Taciz veya şiddetin yaşandığı yere ait herhangi bir delil varsa, bunları korumak önemlidir. Örneğin, yazılı mesajlar, e-postalar, resimler, tıbbi raporlar veya tanık ifadeleri gibi kanıtlayıcı unsurlar durumu destekleyebilir.
+
+Hemen yetişkin birine bildirin: Bu durumu hiç vakit kaybetmeden güvendiğiniz bir yetişkine bildirmeniz önemlidir. Büyükler, ebeveynler, öğretmenler veya okul yönetimi gibi insanlar size yardımcı olabilir ve durumu doğrudan yetkililere aktarabilir.
+
+Polise başvurun: Cinsel taciz ve şiddet suçları olduğunda, polise başvurmanız önemlidir. Polise gitmek, durumu anlatmak ve kanıtları sunmak adına ilgili birimle görüşmek, suçluyu adalet önünde hesap verebilir kılmak için gereklidir.
+
+Soru: Telefonuma gelen linke tıklayınca otomatik olarak bir sayfaya yönlendirildim. Sonrasında banka hesabımdaki paranın çekildiğini fark ettim. Ne yapmalıyım?
+Cevap:  Bu durum banka hesabınızın güvenliğinin ihlal edildiği ve dolandırıcılık durumuyla karşı karşıya olduğunuzun bir göstergesi olabilir. Dolandırıcılık suçunun Bilişim sistemlerinin, banka veya kredi kurumlarının araç olarak kullanılması suretiyle işlenmesi Türk Ceza Kanunu madde 158’e göre nitelikli dolandırıcılık olarak adlandırılmaktadır. Nitelikli dolandırıcılık suçuyla karşılaşıldığında, mağdurların şu adımları izlemesi önerilir:
+
+Hemen Bankayı Bilgilendirin: İlk olarak, bankanızı durumdan haberdar etmelisiniz. Banka yetkilileri ile iletişime geçin ve durumu ayrıntılı bir şekilde açıklayın. Banka, hesabınızı ve kartlarınızı korumak için gereken önlemleri alacaktır.
+
+Polisi Bilgilendirin: Dolandırıcılık suçu işlendiğinde, polisi acilen bilgilendirmeniz önemlidir. Bölgenizdeki en yakın polis merkeziyle iletişime geçin ve durumu bildirin. Polis, soruşturmayı başlatarak dolandırıcılıkla mücadele için gerekli adımları atacaktır.
+Dolandırıcılığı Durdurun: Banka hesabınızın güvenliğini sağlamak için, dolandırıcılığı durdurmak için acil önlemler almanız gerekmektedir. Bu adımlar aşağıdakileri içerebilir:
+
+Banka hesabınızı dondurun veya kilit altına alın. Bunu yapmak için banka şubesine gitmek veya bankanızın çağrı merkezini aramak en iyisidir.
+Hesap hareketlerinizi kontrol edin ve herhangi şüpheli işlemi bankanıza bildirin.
+Eğer kredi veya banka kartı bilgileriniz ele geçirildiyse, banka kartınızı veya kredi kartınızı iptal edin ve yerine yeni kart talep edin.
+
+Delilleri Koruyun: Dolandırıcılık olayını ispatlamak için delilleri toplamak önemlidir. Dolandırıcılığa ait tüm belgeleri, mesajları ve e-postaları bir araya getirin. Bu, polis soruşturması ve banka ile iletişimde kullanılabilir.
+
+Soru:  Komşumuz sürekli beni tehdit ediyor, bu durumu kanıtlamak için ses kaydı aldım. Bu ses kaydını davada kullanmam mümkün mü? 
+Cevap: Türk Hukuku'nda, doğrudan kanıt olarak kullanılabilen dijital ses kayıtlarının kullanımı hakkında bazı sınırlamalar vardır. Gizli/izinsiz bir şekilde alınan ses, fotoğraf veya video kayıtları, belli usullere riayet edilerek hukuka uygun bir şekilde elde edildikleri takdirde özel hukuk davalarında ve ceza yargılamalarında delil değerine sahiptir. 
+
+İlgili kanunlara göre, ses kayıtlarının kullanılabilmesi için aşağıdaki kriterleri karşılaması gerekir:
+Kanunen kabul edilebilir olmalı: Ses kaydı, gizli dinleme veya izleme yoluyla elde edilmemelidir. Ancak, bir şahsın açık rızasıyla kaydedilen bir konuşma veya belirli şekillerde izinsiz olarak yapılan kayıtlar kabul edilebilir olabilir.
+
+İlgili olmalı: Ses kaydının, konunun delillendirilmesi açısından önemli ve ilgili bilgiler içermesi gerekmektedir. Sadece kişisel veya duygusal içerikli olması nedeniyle kaydın genel bir davada delil olarak kabul edilmesi mümkün olmayabilir.
+
+Otantik olmalı: Ses kaydının otantikliği, yani kaydın gerçek olup olmadığının saptanması önemlidir. Mahkeme, ses kaydının doğru bir şekilde alındığını ve değiştirilmediğini doğrulayacak teknik analizlere ihtiyaç duyabilir.
+
+İlgili tarafların haklarını korumalı: Ses kaydının kullanılması, diğer tarafların kişilik haklarına ve özel yaşamlarına zarar vermemelidir. İlgili kişilerin gizlilik hakları gözetilmelidir.
+Eğer ses kaydınız yukarıdaki kriterleri karşılıyorsa, mahkemede delil olarak kullanılabilme olasılığı mevcuttur.
+Tüketici Hukuku 
+Soru:  Satın aldığım gömlek giydikten üç gün sonra söküldü, hangi sürede ne yapmalıyım?
+Cevap: Satın aldığınız gömleğin üç gün sonra sökülmesi durumunda, bu durum alıcı olarak sizin "ayıplı mal" hakkınızı kullanmanızı gerektirir.
+İlk olarak, satın aldığınız ürünün faturasını veya fişini muhafaza ettiğinizden emin olun. Bu belge, gelecekte kullanmanız gereken kanıt olabilir.
+
+İkinci adım olarak, gömlek söküldüğü gibi durumu satın aldığınız mağazaya bildirin. Mağaza yetkilileriyle iletişime geçin, sorunun ortaya çıkış şeklini ve sebebini açıklayın. İşlemi takip etmek için mümkünse mağazaya şahsen gitmeniz veya e-posta yoluyla yazılı olarak iletişim kurmanız tavsiye edilir.
+Satıcıya bildirimde bulunmanızın hemen ardından, satın aldığınız ürünü göstermek üzere mağazaya gidin ve gömleği orada bırakın. Mağaza, ürünü inceleyecek ve durumu değerlendirecektir.
+
+6502 sayılı yasanın 11. maddesinde, malın ayıplı olması durumda tüketicinin seçimlik hakları düzenlenmiştir. Bu haklar şunları içerir:
+Ücretsiz Onarım: Ayıplı malı satın aldığınız mağaza, ücretsiz olarak onarım yapabilir. Bu durumda, gömleğin tamiri tamamen ücretsiz olmalıdır.
+Değiştirme: Eğer onarım mümkün değilse veya beklemek istemiyorsanız, mağaza size aynı veya benzer niteliklere sahip başka bir gömlek vermeyi teklif edebilir.
+İade: Eğer gömleği kabul etmek istemiyorsanız veya mağaza onarım veya değiştirme teklif etmiyorsa, ürünü geri iade edebilir ve satın alma bedelini tam olarak geri talep edebilirsiniz.
+
+Bunların yanı sıra, tüketici haklarınıza uygun bir şekilde talepte bulunmanız gerektiğini unutmayın. Satın aldığınız mağaza veya satıcı, bu haklara riayet etmek zorundadır. Ancak, herhangi bir anlaşmazlık durumunda, hakkınızı aramak için tüketici hakem heyetine veya tüketici mahkemesine başvurabilirsiniz.
+
+Soru:  İnternetten satın aldığım cep telefonun kutusunu açtığımda ekranının kırık olduğunu gördüm. Ne yapmalıyım?
+Cevap: İnternet üzerinden satın aldığınız cep telefonunun ekranının kırık olduğunu fark ettiğinizde, aşağıdaki adımları izleyebilirsiniz:
+6502 sayılı yasanın 11. maddesinde, malın ayıplı olması durumda tüketicinin seçimlik hakları düzenlenmiştir. Bu hakları kullanabilmek için önce iletişime geçmeniz gereken yer satın aldığınız mağaza veya şirkettir.
+
+İlk adım olarak, satın aldığınız şirketin müşteri hizmetleri ile iletişime geçin. Hızlı bir şekilde e-posta, telefon veya müşteri hizmetleri destek kanalını kullanarak sorunu bildirin. Şirkete, ürünü sipariş numarası veya fatura bilgileri gibi gerekli olan tüm bilgileri sağlamalısınız.
+
+Şirketle iletişime geçtikten sonra, ekranın kırık olduğunu gösteren resimler veya videolar gibi kanıtları paylaşmanız gerekebilir. Bu, sorunu doğrulamaları ve size nasıl yardımcı olabileceklerine dair bir karar vermelerine yardımcı olur.
+
+Şirketin yanıtına ve sunulan çözüme bağlı olarak, birkaç olası sonuç olabilir. İlk olarak, tamir teklifi alabilirsiniz. Şirket, ücretsiz olarak ekranın tamir edilmesini önerebilir. İkincisi, değiştirme teklifi alabilirsiniz. Şirket, size kırık ekranlı telefonun yerine yeni bir telefon göndermeyi teklif edebilir. Üçüncüsü, iade talebinde bulunabilirsiniz. Şirket, ürünü geri göndermeniz karşılığında size ödediğiniz tutarı iade edebilir.
+
+Eğer şirket, sorununuzu çözmek için yeterli destek sunmaz veya anlaşmazlık devam ederse, Tüketici Sorunları Hakem Heyeti'ne veya Tüketici Mahkemesi'ne başvurabilirsiniz. Bu, daha fazla adım atmanızı ve tüketici haklarınıza uygun bir şekilde korunmanızı sağlar.
+
+Soru:  İnternet sitesinden 1,00 TL’ye bilgisayar aldım. Satıcı siparişimi iptal etti ve ödemeyi iade etti. Ancak ben satın aldığımda etiket fiyatı 1,00 TL idi. Ne yapmalıyım? 
+Cevap: Satıcı tarafından siparişinizin iptal edilmesi ve ödemenin iade edilmesi durumunda, öncelikle şu adımları izleyebilirsiniz:
+Satıcıyla iletişime geçin: Satıcıyla iletişime geçerek neden siparişinizin iptal edildiğini ve ödemenin neden iade edildiğini öğrenmek için açık bir şekilde sorun. Satıcıya siparişinizi tam olarak yerine getirmelerini talep edebilirsiniz.
+
+Etiket fiyatını gösteren kanıtlar: Siparişinizin iptal edildiği gerekçesiyle sürecin adil yürütülmesini sağlamak için, siparişinizi verirken etiket fiyatının 1,00 TL olduğunu gösteren kanıt sağlamak isteyebilirsiniz. Bu kanıtlar, örneğin ekran görüntüleri veya sipariş onayı gibi belgeler olabilir. Etiket fiyatına dayanarak bilgisayarın satın alınan fiyatından daha yüksek bir fiyattan satın alınması gerektiğini belirtin.
+
+Tüketici haklarınıza uygun bir şekilde talepte bulunun: Eğer satıcı, siparişinizi iptal ederse ve ödemeyi iade ederse, o zaman siparişi tamamlamak veya etiket fiyatına uygun bir alternatif sunmalarını talep etme hakkına sahipsiniz. Tüketicilerin yanıltıcı fiyatlandırmaya karşı korunmaya hakları vardır ve bu hakları kullanmanız önemlidir.
+
+Tüketici hakem heyeti veya tüketici mahkemesine başvurun: Satıcı, sorunu çözmek veya tüketici haklarınıza uygun bir şekilde hareket etmek konusunda isteksizse veya yanıt vermezse, Tüketici Sorunları Hakem Heyeti veya Tüketici Mahkemesi'ne başvurarak haklarınızı koruma yoluna gidebilirsiniz.
+
+Soru:    Sipariş ettiğim kitabın ortasında eksik sayfa çıktı. Ne yapmalıyım?
+Cevap: Eksik sayfa sorunuyla karşılaştığınızda, öncelikli olarak kitabı satın aldığınız yerle iletişime geçmenizi öneririm. İletişime geçtiğinizde durumu detaylı bir şekilde anlatarak, eksik sayfanın yerine geçmesini veya kitabın değiştirilmesini talep edebilirsiniz.
+
+Türk Borçlar Kanunu'na göre, satın aldığınız ürünün ayıplı olduğunu belirtebilirsiniz. Ayıplı bir ürünle karşılaştığınızda, tüketici olarak haklarınız doğar ve bu haklarınızı kullanabilirsiniz. Satıcının ayıplı ürünü değiştirmesi veya tamir etmesi gerekmektedir.
+
+Ancak, kitabın eksik sayfası kitabın baskı hatası veya üretim hatası sonucu meydana geldiyse, satıcının size eksik sayfayı verme veya kitabı değiştirme yükümlülüğü bulunabilir. Bu nedenle, öncelikle satıcınızla iletişime geçmenizi ve yaşanan durumu bildirmenizi öneririm.
+
+Eğer satıcı size yardımcı olmazsa veya taleplerinizi yerine getirmezse, Türkiye'de satın aldığınız ürünlerle ilgili tüketici sorunlarında Tüketici Hakem Heyeti'ne başvurabilirsiniz. Tüketici Hakem Heyeti, tüketicilerin haklarının korunmasını sağlamak amacıyla oluşturulmuş bir kuruldur. Heyet, satıcıyla anlaşmazlık durumunda arabuluculuk yapabilir veya karar verebilir. 6502 sayılı yasanın 11. maddesinde, malın ayıplı olması durumda tüketicinin seçimlik hakları düzenlenmiştir. Bu seçimlik haklarda tüketici; bedel iadesini de içeren sözleşmeden dönme, malın ayıpsız misliyle değiştirilmesi veya ayıp oranında bedel indirimi ya da ücretsiz onarım isteme haklarına sahiptir.
+
+Soru:  Banka kredi kartımda hizmet bedeli adıyla yıllık ücret almaktadır. Buna karşı yasal haklarım nedir?
+Cevap: T.C.M.B tarafından düzenlenen Finansal Tüketicelerden Alınacak Ücretlere İlişkin Usul ve Esaslar Hakkında Tebliğ'e göre kredi kartına ilişkin imzaladığınız sözleşmede yıllık üyelik ücreti alınabileceğinin belirtilmesi kaydıyla kredi kartı yıllık üyelik ücreti alabilirler.
+Kredi kartı yıllık üyelik ücreti T.C.M.B'nin görev alanına girmektedir. Kredi kartı yıllık üyelik ücreti ile ilgili uyuşmazlık olması halinde öncelikle ilgili Bankaya buradan sonuç alınamaması halinde T.C.M.B'ye veya Türkiye Bankalar Birliği ve Türkiye Katılım Bankaları Birliği nezdindeki Bireysel Müşteri Hakem Heyetlerine başvurabilirsiniz.
+Kişisel Verilerin Korunması Hukuku
+Soru:    LegAs sana soru sormak için giriş sayfasında verdiğim kişisel verilerimi nasıl koruyacaksın?
+Cevap: Soru sormak için giriş sayfasında verdiğiniz kişisel verilerinizin güvenliğinin sağlanması benim önceliklerim arasındadır. Sizden aldığım kişisel verilerin gizliliğini ve güvenliğini sağlamak için güncel güvenlik standartlarına uygun önlemler almaktayım.
+
+Öncelikle, aldığım kişisel verilerinizi yalnızca belirli bir süre boyunca saklamaktayım ve gizlilik politikam gereğince bu verileri başka hiçbir amaç için kullanmamaktayım. Sistemim, gelen verilerinizi şifreleme teknolojisi kullanarak korumaktadır. Bu sayede verilerinizin güvenliği sağlanmakta ve yetkisiz erişime karşı koruma sağlanmaktadır.
+
+Ayrıca, verilerinizi yetkisiz erişime, kaybolmaya, bozulmaya, değiştirilmeye veya ifşa edilmeye karşı korumak için gereken önlemleri alıyorum. Bu önlemler, güvenlik duvarları, düzenli güvenlik denetimleri ve veri şifreleme gibi teknik tedbirler içerebilir.
+
+Bununla birlikte, dikkatli bir şekilde seçilmiş ve güvenli sunucu ve veri merkezi hizmet sağlayıcılarıyla çalışarak, verilerinizi koruma konusunda ek güvenlik sağlamaktayım. Amacım, kullanıcıların gizlilik ve güvenlik endişelerini azaltmak ve verilerini korumaktır. Ancak, yine de, internet tabanlı bir hizmet olduğum için tam bir güvenlik sağlama garantisi veremem. Bu nedenle, kişisel bilgilerinizi paylaşırken dikkatli olmanızı ve güvenlik önlemlerinizi almanızı öneririm.
+
+Soru:     Cep telefonuma sürekli reklam mesajları gelmektedir. Bunları nasıl engelleyebilirim?
+Cevap:  Ticari elektronik iletiler, alıcılara ancak önceden onayları alınmak kaydıyla gönderilebilir. Bu onay, yazılı olarak veya her türlü elektronik iletişim araçlarıyla alınabilir. Cep telefonunuza sürekli olarak reklam mesajları alıyorsanız, bu durumu engellemek için aşağıda belirtilen adımları izleyebilirsiniz:
+
+Mobil operatörünüzle iletişime geçin: Öncelikle, cep telefonu sağlayıcınızla iletişime geçin ve reklam mesajlarının engellenmesi konusunda şikayette bulunun. Mobil operatörünüz genellikle bu tür mesajları engellemek için sistemlere sahiptir ve size yardımcı olacaklardır.
+
+SPAM SMS'i engelleyin: Cep telefonunuzun ayarlarında, SPAM veya istenmeyen mesajları engellemek için bir ayar bulunabilir. Bu ayarı etkinleştirerek, bilinmeyen veya istenmeyen numaralardan gelen mesajları otomatik olarak engelleyebilirsiniz.
+
+Numara engelleme: Cep telefonunuzun ayarlarında, belirli bir numarayı engellemek için bir seçenek olabilir. Reklam mesajları gönderen numaraları bu şekilde engelleyebilirsiniz.
+Reklam SMS'lerine yönelik hizmetler: Bazı şirketler, reklam SMS'leri engellemek için özel hizmetler sunmaktadır. Bu hizmetleri araştırabilir ve reklam mesajlarını durdurmak için bu hizmetleri kullanabilirsiniz.
+Bilgi paylaşımını sınırlayın: İnternet üzerindeki bazı platformlar veya servis sağlayıcılar, telefon numaranızı üçüncü taraflarla paylaşabilir. Bu nedenle, uygulamalarda veya web sitelerinde yer alan gizlilik ayarlarını kontrol ederek, numaranızın paylaşımını sınırlayabilirsiniz.
+
+Eğer bu adımları takip etmenize rağmen reklam mesajları devam ederse, bir avukatla iletişime geçmeyi düşünebilirsiniz. Ancak, öncelikle yukarıda bahsedilen adımları denemeniz önerilir. Unutmayın ki, ticari iletişim ve ticari elektronik iletiler hakkında yönetmeliği reklam mesajlarına ilişkin bazı sınırlamalar getirmektedir. Reklam mesajları gönderenler, size izin vermediğiniz halde mesaj gönderiyorlarsa yasalara aykırı bir davranış sergilemiş olabilirler.
+
+Soru:    Bir şirket, kişisel verilerimi nasıl toplayabilir ve bu süreçte bilgilendirme zorunluluğu nedir?
+Cevap:  Kişisel veriler, ancak ilgili kişilerin açık rızasıyla toplanabilir ve işlenebilir. Şirketler, kişisel veri toplayabilmek için ilgili kişilerden sözlü veya yazılı şekilde ya da elektronik ortam üzerinde açık rıza almalıdır. KVKK formları aracılığıyla alınabilen açık rızanın ispat yükümlülüğü, veri sorumlusuna aittir. Bir şirket, kişisel verilerinizi toplamak için aşağıdaki yolları izleyebilir:
+
+Açık Rıza: Şirket, kişisel verilerinizi toplamak ve işlemek amacıyla açık rızanızı talep edebilir. Açık rıza, özgür iradenizle verdiğiniz, bilgilendirme esasına dayalı ve isteğe bağlı olarak verilen bir onaydır. Bu durumda, şirket verilerinizi toplayabilmesi için önceden belirli bir şekilde sizi bilgilendirmek zorundadır.
+
+Sözleşme İlişkisi: Şirket, sizinle yapılan bir sözleşmenin ifası için kişisel verilerinizi toplayabilir. Bu durumda toplanacak ve işlenecek veriler, sözleşmenin türüne ve şirketin hukuki yükümlülüklerine bağlı olarak değişebilir. Şirket, sözleşme ilişkisi bağlamında kişisel verilerinizi işleyebilir ancak bu durumda da sınırlar ve gerekli bilgilendirme önemlidir.
+
+Yasal Yükümlülük: Şirket, yasal bir yükümlülüğü yerine getirmek için kişisel verilerinizi toplama yetkisi sahip olabilir. Örneğin, vergi kanunları veya kayıt tutma yükümlülüğü gibi yasal zorunluluklar nedeniyle verilerinizi talep etme hakkına sahip olabilirler.
+
+Meşru Menfaat: Şirket, meşru menfaatleri için kişisel verilerinizi toplayabilir. Bu durumda, şirketin veya üçüncü bir tarafa sahip olduğu meşru menfaati açıklamakla yükümlüdür. Aynı zamanda, kişisel verilerinizi toplarken kişisel haklarınıza saygı göstermesi de gerekmektedir.
+
+Kişisel verilerin toplanması sürecinde şirketin bilgilendirme yükümlülüğü vardır. Şirket, veri toplama amacı ve yöntemleri gibi bilgileri size açık bir şekilde sunmak zorundadır. Bu bilgilendirme, genellikle bir gizlilik politikası veya kullanıcı sözleşmesi aracılığıyla yapılır. Bilgilendirme, verilerin nasıl işlendiği, kimlerle paylaşıldığı, saklama süreleri ve diğer önemli detayları içermelidir. Şirket, size bu bilgileri aktarmakla yükümlüdür ve siz de bu bilgilendirme metnini anlamalı ve onayladığınızı belirtmelisiniz.
+
+Unutmayın ki, şirketin kişisel verileri toplama ve işleme yöntemleri, Türkiye'deki Kişisel Verilerin Korunması Kanunu (KVKK) uyarınca belirlenen sınırlamalara ve prensiplere uygun olmalıdır. Eğer şirket, kişisel verilerinizi hukuka uygun olmayan bir şekilde veya bilgilendirme yükümlülüklerini yerine getirmezse topluyorsa, bununla ilgili olarak bir avukat veya Kişisel Verileri Koruma Kurulu'na başvurmanız tavsiye edilir.
+
+Soru:   KVKK kapsamında açık rıza nedir ve nasıl sağlanmalıdır?
+Cevap: Açık rıza; “belirli bir konuya ilişkin, bilgilendirilmeye dayanan ve özgür iradeyle açıklanan rıza”dır.
+
+Kanun çerçevesinde açık rıza, kişinin sahip olduğu verinin işlenmesine, kendi isteği ile ya da karşı taraftan gelen istek üzerine, onay vermesi anlamını taşımaktadır. Açık rızanın bir diğer önemi de veri işleyene gerçekleştireceği fiil konusunda yol göstermesidir. Kişi açık rıza açıklaması ile aslında veri sorumlusuna kendi hukuksal değerine ilişkin verdiği kararı bildirmiş olmaktadır. Açık rıza, ilgili kişinin, işlenmesine izin verdiği verinin sınırlarını, kapsamını, gerçekleştirilme biçimini ve süresini de belirlemesini sağlayacaktır.
+
+Açık rızanın bu anlamda, rıza veren kişinin “olumlu irade beyanı”nı içermesi gerekmektedir. Diğer mevzuattaki düzenlemeler saklı kalmak üzere, açık rızanın yazılı şekilde alınmasına gerek yoktur. Açık rızanın elektronik ortam ve çağrı merkezi vb. yollarla alınması da mümkündür. Burada ispat yükümlülüğü veri sorumlusuna aittir.
+
+Soru:    İş başvurusunda adli sicil kaydımı istemeleri KVKK’ya aykırı mıdır?
+Cevap: İş başvurusu sırasında adli sicil kaydınızın istenmesi, Kişisel Verilerin Korunması Kanunu'na (KVKK) aykırı olmayabilir. Ancak, KVKK'ya göre kişisel verilerin işlenmesi, ilgili kişinin açık rızasına dayandırılmalıdır. Adli sicil kaydı da kişisel veri kapsamına girmektedir.
+
+İşverenler, iş başvurusu sürecinde adayların geçmişini değerlendirmek ve iş güvenliğini sağlamak amacıyla adli sicil kaydını isteyebilirler. Bu istek, işverenin meşru menfaati doğrultusunda olabilir. Bununla birlikte, işverenin adli sicil kaydını istemeden önce açık bir şekilde bilgi vermesi ve başvurulan pozisyonun hassasiyetine ve işverenin meşru menfaatine uygun olacak şekilde gerekçelendirmesi gerekmektedir.
+
+İşverenin adli sicil kaydını talep etmesi durumunda, iş başvurusu sırasında size açık ve anlaşılır bir şekilde açıklama sağlamalarını talep edebilirsiniz. Ayrıca, işverenin adli sicil kaydını kullanımının KVKK kurallarına uygun bir şekilde gerçekleştiğinden emin olması gerekmektedir.
+
+Eğer işveren, adli sicil kaydınızı iş başvurusu sürecinde istemeksizin önceden haber vermediyse veya açıklama yapmadıysa, bu durum KVKK'ya aykırı olabilir ve bunu yetkili bir kişi veya kuruma bildirebilirsiniz.
+
+Soru:   Trafik kazası yaptım aradan birkaç gün geçtikten sonra beni birisi aradı. Aracımın değer kaybı için hizmet verebileceğini söyledi. Cep telefon numaramı nasıl elde ettiğini sorduğumda kaçamak cevaplar verdi. Cep telefon numaram sadece trafik kaza tutanağında yazılı idi. Kimlere karşı ne yapmalıyım?
+Cevap:  Bu durumda, öncelikle size arayan kişinin kim olduğunu ve hangi şirketi temsil ettiğini netleştirmeniz önemlidir. Bu bilgileri almak için karşı tarafı doğrudan sorgulayabilirsiniz.
+
+Cep telefon numaranızın trafik kaza tutanağında yazılı olduğunu belirtmişsiniz. Trafik kaza tutanağı, trafik kazası ile ilgili resmi bir belgedir ve ilgili kişilerin bilgilerinin yer aldığı bir tutanaktır. Bu nedenle, trafik kaza tutanağındaki bilgilerin bu şekilde kullanılması genellikle sorun teşkil etmez.
+
+Ancak, size arayan kişinin cep telefonu numaranızı nasıl elde ettiğini sorduğunuzda, kaçamak cevaplar vermesi endişe verici olabilir. İletişim bilgilerinizin izniniz olmadan satılması veya ticari amaçlarla kullanılması, Kişisel Verilerin Korunması Kanunu'na (KVKK) aykırıdır.
+
+Bu durumda yapmanız gerekenler şunlar olabilir:
+
+Size arayan kişinin kimliğini ve işi temsil ettiği şirketi doğrulamak için daha fazla bilgi talep edebilirsiniz.
+İletişim bilgilerinizi veren kişiye, cep telefonu numaranızı nasıl elde ettiğini net bir şekilde sormalısınız ve açık bir cevap istemelisiniz.
+
+Eğer arayan kişi veya şirketin ticari amaçlarla iletişim bilgilerinizi izniniz olmadan kullandığını düşünüyorsanız, durumu yetkililere bildirebilirsiniz. Bu konuda şikayette bulunmak için Kişisel Verileri Koruma Kurumu'na başvurabilirsiniz.
+
+Ayrıca trafik kaza tutanağı resmi belge niteliğinde olduğundan ve bu belge idare tarafından düzenlendiğinden, idarenin bu tutanağı koruma ve saklama yükümlülüğü bulunmaktadır. Bu yükümlülüğe aykırı davranış sergilediğinde ise idarenin de sorumluluğu doğabilir. 
+
+Bu tür durumlarla karşılaştığınızda, iletişim bilgilerinizi kontrol etmek ve gerektiğinde güncellemek önemlidir. Ayrıca, ticari amaçlarla iletişimlerinize son vermek istediğinizi belirtmek için ilgili kişi veya şirkete talepte bulunabilirsiniz.
+
+Off-shore ve Yurtdışı Şirket Kuruluşu
+Soru:   Offshore şirket ne demektir ve bana ne tür avantaj sağlar?
+Cevap: Offshore şirket, bir ülkenin yasal yargı alanı dışında kurulan ve faaliyet gösteren bir şirkettir. Genellikle vergi avantajı sağlamak veya gizlilik sağlamak gibi amaçlarla kurulurlar. Offshore şirketler, çeşitli nedenlerle tercih edilebilir ve bazı avantajlar sağlayabilir. Bunlar şunları içerebilir:
+
+Vergi avantajları: Birçok offshore bölge, düşük veya sıfır vergi oranlarıyla bilinir. Bu, şirketlerin faaliyetlerinden elde ettikleri gelirleri daha düşük bir maliyetle vergilendirmelerine olanak sağlar. Böylece şirketler, vergi maliyetlerini azaltabilir veya tamamen ortadan kaldırabilir.
+
+Gizlilik ve gizlilik koruması: Offshore bölgelerdeki şirketler genellikle daha katı mahremiyet koruması sunar. Bu, şirket sahipleri ve yöneticileri hakkında sınırlı bilginin ortaya çıkmasını sağlayabilir. Offshore şirketler, ticari sırların korunması ve rakiplerden gizlenmesi için de kullanılabilir.
+
+Düşük düzenleyici yük: Bazı offshore bölgelerde yönetmelikler ve bürokrasi daha az sıkı olabilir. Bu, işletmelerin daha hızlı ve daha esnek bir şekilde faaliyet göstermesine olanak tanır.
+
+Varlık koruması: Bazı kişiler ve işletmeler offshore şirketleri, varlıklarını korumak ve risklerini dağıtmak için kullanır. Bunun nedeni, offshore şirketlerin genellikle daha az mali ve hukuki kısıtlamaya sahip olması ve bu nedenle, potansiyel risklere karşı daha iyi bir koruma sağlayabilecek alternatif varlık yapıları oluşturabilmesidir.
+
+Ancak, offshore şirketlerin avantajlarını değerlendirirken dikkatli olunmalıdır. Her ülkenin, offshore faaliyetlere ilişkin yasal ve vergi düzenlemeleri vardır. Bu düzenlemelere uymamanın yasal sonuçları olabilir ve yasa dışı faaliyetler için kullanılan offshore şirketler cezai soruşturmalara yol açabilir.
+
+Offshore şirketlerin oluşturulması ve yönetimi karmaşık olabilir. Bu nedenle, offshore bir şirket kurmadan önce uzman bir hukuk danışmanından veya vergi uzmanından destek almanız önemlidir. Bu uzmanlar size mevcut yasalara uygun olarak en uygun stratejiyi sağlayabilir ve hukuki ve mali riskleri en aza indirebilir.
+
+Soru:   Offshore şirket kurabileceğim ülkeler neresidir?
+Cevap: Offshore şirket kurulumu için tercih edilebilecek bazı ülkeler arasında aşağıdakiler bulunmaktadır:
+
+Cayman Adaları: Cayman Adaları, düşük vergi oranları ve esnek düzenlemeleri ile offshore şirket kurmak için popüler bir seçimdir. Ayrıca, gizlilik yasaları da bulunmaktadır.
+
+İsviçre: İsviçre, istikrarlı bir ekonomiye sahip olması, gizlilik yasaları ve uluslararası itibarı nedeniyle offshore şirket kurmak için tercih edilen bir ülkedir. Ancak, İsviçre'nin yeni offshore şirket kurulumuna sınırlamalar getirdiğini unutmayın.
+
+BVI (Britanya Virjin Adaları): BVI, düşük düzenleyici gereksinimlere sahip, düşük vergi oranlarına sahip ve odaklanmış bir finansal hizmetler sektörüne sahip olduğu için popüler bir offshore destinasyonudur.
+
+Belize: Belize, vergi avantajları, düşük kuruluş maliyetleri ve bir şirketin hızla kurulabilmesi gibi avantajlarıyla tanınır. Belize'de şirket kurulumu kolay, maliyeti düşük ve zaman alıcı değildir.
+
+Singapur: Singapur, akıllı bir iş yapma ortamı, istikrarlı bir politika çerçevesi ve küresel finans merkezi olarak ün kazanmış bir ülke olarak offshore şirket kurulumu için popüler bir seçenektir. Ayrıca, Singapur'un vergi avantajları ve yatırımcı dostu düzenlemeleri bulunmaktadır.
+
+Soru:  Estonya’da e-residency kart ile şirket kurmak istiyorum. Nasıl bir yol izlemeliyim? Hangi belgelere ihtiyacım var?
+Cevap: e-Residency, günümüz girişimcilerinin AB vatandaşlığına ve büyük sermayelere gerek duymadan yurt dışında online şirket kurabilmeleri demektir. Her şeyin online olarak ve tamamen sorunsuz şekilde tamamlanmasının amaçlandığı sistemde öncelikli olarak e-Resident olmak gerekmektedir. Bu doğrultuda aşağıda sayılan belgelerin sisteme yüklenmesi talep edilmektedir:
+Pasaportun ilgili sayfalarının bir kopyası,
+Pasaport tipi bir dijital fotoğraf,
+Kurulması planlanan şirkete ilişkin niyet mektubu.
+
+Sağlanan belgelerle beraber yine online olarak visa ya da mastercard ile başvuru ücreti ödemesi yapılmakta ve başvuru güvenli online form aracılığıyla tamamlanmaktadır.Başvurunun kabulü ve işlem görme süreci 30 gün içinde tamamlanmaktadır. Başvurunun kabulüne ilişkin e-posta ile kişiler bilgilendirmekte ve sonrasında sonra dijital kimlik kartları başvuru sırasında seçilen Estonya elçiliğinden alınabilmektedir.
+
+e-Resident olduktan sonra şirket kurabilmek için yasal bir adres edinilmesi ve banka hesabı açılması gerekmektedir. Bu konuya ilişkin danışmanlık veren şirketler başvuruların yapıldığı internet sitesinde yer almaktadır.
+
+Başvuru sonrasında verilen dijital kimlik kartı ile kişiler dijital imzaya sahip olmaktadır. Böylelikle şirket sahipleri, şirketin sevk ve idaresini Estonya'da yerleşik bir üçüncü kişiye gerek kalmaksızın, her türlü hukuki yükümlülük ve evrak işleri dahil olmak üzere dijital imza ile yerine getirebilmektedirler. Ayrıca e-imza ile AB regülasyonlarına tabi olarak bankacılık ve online ödeme hizmeti sağlayıcılarından yararlanabilmektedirler.
+
+
+Soru:  Offshore şirketlerin yurtdışında gelir elde etmenin vergi yükünü nasıl etkilediğini anlatabilir misiniz?
+Cevap:  Offshore şirketler, yurtdışında gelir elde etmenin vergi yükünü azaltmak veya geciktirmek için kullanılan bir araç olarak kullanılabilir. Burada bazı temel bilgileri paylaşabilirim:
+
+Düşük Vergi Oranları: Birçok offshore destinasyon, yerel şirketlerden daha düşük vergi oranları sunar. Bu, yurtdışında elde edilen gelirin daha az vergi ödemesi anlamına gelir. Örneğin, Cayman Adaları veya BVI gibi bazı offshore destinasyonlar, düşük kurumsal gelir vergisi oranları sunar.
+
+Vergi Cenneti Statüsü: Bazı offshore destinasyonlar, 'vergi cenneti' statüsüne sahiptir. Bu, bu ülkelerde kurulan şirketlerin gelirlerinin tamamen veya büyük ölçüde vergiden muaf olduğu anlamına gelir. Ancak, bu ülkelerdeki vergi rejimleri, dünya genelinde artan uluslararası baskılar nedeniyle sık sık değişebilir ve güncellemeler yapılması gerekebilir.
+
+Gelir Geciktirme: Offshore şirketler, yurtdışında elde edilen geliri yerel olarak raporlamadan veya vergilendirmeden önce yurtdışında tutabilir. Bu, vergi ödemelerini geciktirerek nakit akışını iyileştirebilir ve belirli bir süre için vergi avantajı sağlayabilir.
+
+Gelir Aktarma: Offshore şirketler, yurtdışında elde edilen geliri, daha yüksek vergi oranlarına sahip ülkelerde faaliyet gösteren şirketler veya bireylerden aktarabilir. Bu, geliri daha düşük vergi oranlarına tabi olduğu bir yerde tutmak için kullanılan bir stratejidir. Ancak, bu tür gelir aktarımlarının yasalara uygun ve vergi düzenlemelerine uygun olması önemlidir.
+
+Vergi Hukuku
+Soru: Adıma kayıtlı üç tane gayrimenkul var. Birinde kendim oturuyorum birinde oğlum diğerinden aylık 50.000,00 TL kira alıyorum. Gayrimenkul ve kiraya ilişkin vergi yükümlülüklerim nelerdir?
+Cevap: Türkiye'de gayrimenkul ve kira gelirleri vergilendirilmektedir. Sizin durumunuzda, adınıza kayıtlı olan üç gayrimenkul ve bu gayrimenkullerden birinde oturmanız, birinde oğlunuzun oturması ve diğerinde ise kira geliri elde etmeniz durumları bulunuyor. İlgili vergi yükümlülüklerinizi aşağıda açıklıyorum:
+
+Kendi Oturduğunuz Gayrimenkul: Kendi oturduğunuz gayrimenkulün vergilendirilmesi konut değeri üzerinden yapılmaz. Bu durumda, kendi oturduğunuz gayrimenkul ile ilgili herhangi bir vergi yükümlülüğünüz bulunmamaktadır.
+
+Oğlunuzun Oturduğu Gayrimenkul: Oğlunuzun oturduğu gayrimenkul üzerinden herhangi bir kira geliri elde etmediğiniz sürece vergi yükümlülüğünüz bulunmamaktadır. Ancak, eğer oğlunuz size aylık kira ödemesi yapıyorsa, bu durumda kira geliri elde etmiş olursunuz ve elde ettiğiniz kira geliri üzerinden gelir vergisi ödemekle yükümlü olursunuz.
+
+Kira Geliri Elde Ettiğiniz Gayrimenkul: Aylık 50.000,00 TL kira geliri elde ettiğiniz gayrimenkul, kiraya verilen gayrimenkullerden elde edilen kira geliri üzerinden gelir vergisine tabidir. Bu gelirinizi beyan etmeniz ve gelir vergisi ödemeniz gerekmektedir. Kiraya verilen gayrimenkulden elde edilen kira geliri üzerinden belirlenen oranda gelir vergisi tahakkuk ettirilir ve ilgili dönemdeki diğer gelirlerinizle birlikte beyan edilir.
+
+Soru: Özel sektörde bir fabrikada çalışıyorum. Elime aylık net 20.000,00 TL geçiyor. Aldığım maaş nedeniyle vergi yükümlülüğüm nedir?
+Cevap: Özel sektörde çalışan bir birey olarak, elinize geçen aylık net olarak ödendiğinden sizin ayrıca maaş üzerinden vergi yükümlülüğünüz bulunmamaktadır. Ancak işvereniniz brüt maaşınızdan vergi kesintisi yaparak vergi yükümlülüğünü yerine getirmelidir. Vergi yükümlülüğü ise Türkiye'de Gelir Vergisi Kanunu tarafından düzenlenir.
+
+2023 yılı için geçerli olan Gelir Vergisi Kanunu'na göre, geliriniz belli bir miktarın üzerine çıktığında vergi ödemekle yükümlü olursunuz. Bu miktar, "vergi tarifesinin gelir dilimleri" olarak adlandırılan bir sisteme dayanır. Gelirinizin belirli bir dilime denk geldiği durumlarda, o dilim için belirli bir oranda vergi ödemeniz gerekmektedir.
+
+2023 yılında geçerli olan gelir dilimleri ve bu dilimlere ilişkin vergi oranları şu şekildedir:
+
+0-70.000 TL aralığındaki gelir için %15 vergi oranı,
+70.000-150.000 TL aralığındaki gelir için %20 vergi oranı,
+150.000-370.000 TL aralığındaki gelir için %27 vergi oranı,
+370.000 TL üzerindeki gelir için %35 vergi oranı.
+Bu bilgilere dayanarak, aylık net 20.000 TL'lik bir geliriniz olduğunu varsayarsak, bu geliriniz 22.000 TL'lik ilk dilime denk geldiği için %15 oranında gelir vergisi ödemeniz gerekecektir.
+
+Ancak vergi hesaplaması karmaşık bir süreç olabilir ve kişisel durumunuza bağlı olarak farklı düzenlemeler ve istisnalar da olabilir. Bu nedenle, daha kesin bir vergi hesaplaması ve yükümlülüklerinizi tam olarak belirlemek için bir vergi danışmanına veya Maliye Bakanlığı'nın yetkilendirdiği bir mali müşavire başvurmanızı öneririm.
+
+Soru: Yurtdışından ülkeye giriş yaptım havalimanında gümrük memurları üzerimde bulunan 100.000,00 USD nakit paraya ve bir kilo altına el koydu. Bunların izinsiz olarak ülkeye girişinin mümkün olmadığını söyledi. Yapılan işlem hukuka uygun mu?
+Cevap: Türkiye'ye yurtdışından giriş yapmak suretiyle taşıdığınız nakit para ve altın için gümrük memurlarının el koyması hukuka uygun bir işlem olabilir. Türk gümrük mevzuatına göre, Türkiye'ye taşınan nakit para ve değerli eşyalarla ilgili belirli sınırlamalar ve düzenlemeler bulunmaktadır. AB ülkeleri ve Türkiye güzergâhındaki ülkelerde 9.999 avro üzeri ya da buna eşdeğer dövizi beyan etmeden taşımak yasaktır. Unutmayalım ki çek ve senet gibi ödeme araçları da nakit olarak kabul edilmektedir.
+Ülkemizde, Türk parasında 25.000 TL, dövizde ise 10.000 Avro ve eşiti efektif üzeri miktarı yurtdışına çıkarmak isteyen yolcuların gümrük memuruna beyanda bulunması zorunludur. Bu miktarlar altındaki nakitlerin beyan edilmesi zorunlu değildir.
+
+Belirlenen miktar geçildiği takdirde yolcunun gümrük memuruna beyanda bulunması zorunludur, aksi takdirde yolcuya idari para cezası uygulanır. 
+
+Aynı şekilde, değerli maden taşıyanlar için de benzer bildirim yükümlülüğü bulunmaktadır. Yolcular, beraberlerindeki kendilerine ait değeri 15.000 ABD Dolarını aşmayan ve ticari amaç taşımayan ziynet eşyası niteliğinde kıymetli madenlerden ve taşlardan yapılmış eşyayı yurda getirebilirler ve yurtdışına çıkarabilirler. Daha fazla değerdeki ziynet eşyasının yurtdışına çıkarılması, girişte beyan edilmiş olmasına veya Türkiye'de satın alındığının belgelendirilmesi şartına bağlıdır. Türkiye'ye getirilen altın veya diğer değerli madenlerin ilgili sınırlamaları aşması durumunda, gümrük yetkilileri bu maddeleri el koyabilir.
+
+
+Soru: Yurt dışında gelir elde etmem vergi durumumu nasıl etkiler?
+Cevap: Türkiye'de yurt dışında elde ettiğiniz gelir, vergi durumunuzu etkileyebilir. Türk gelir vergisi sistemine göre, Türkiye'de ikamet eden herkesin dünya genelinde elde ettiği gelirlere vergi ödeme yükümlülüğü bulunmaktadır. Tam mükellef gerçek kişilerin 2021 yılında hem Türkiye’de hem de yurt dışında elde ettikleri beyana tabi gelirlerini gelir vergisi beyannamesi ile beyan etmeleri gerekir.
+Gelir vergisi gerçek kişilerin elde ettiği gelirler üzerinden alınır. Vergilendirme tam ve dar mükellefiyet esasına göre yapılır.
+Tam mükellefiyette kişiler gerek Türkiye’de gerekse yurt dışında elde ettikleri gelirlerin tamamı üzerinden vergilendirilirler. Aşağıdaki kişiler tam mükellef kabul edilirler: Türkiye'de yerleşmiş olanlar;
+Resmi daire ve müesseselere veya merkezi Türkiye'de bulunan teşekkül ve teşebbüslere bağlı olup adı geçen daire, müessese, teşekkül ve teşebbüslerin işleri dolayısıyla yabancı memleketlerde oturan Türk vatandaşları (Bu gibilerden, bulundukları memleketlerde elde ettikleri kazanç ve iratları dolayısıyla gelir vergisine veya benzeri bir vergiye tabi tutulmuş bulunanlar, mezkûr kazanç ve iratları üzerinden ayrıca vergilendirilmezler.)
+
+Şu kişiler Türkiye’de yerleşmiş sayılırlar:
+İkametgahı Türkiye'de bulunanlar;
+Bir takvim yılı içinde Türkiye'de devamlı olarak altı aydan fazla oturanlar (Geçici ayrılmalar Türkiye'de oturma süresini kesmez.)
+
+Türkiye’de yerleşmiş olmayan gerçek kişiler dar mükellefiyet esasında sadece Türkiye'de elde ettikleri kazanç ve iratlar üzerinden vergilendirilirler.
+Görüldüğü gibi Türk vatandaşı olsun olmasın tam mükellef sayılan gerçek kişiler, Türkiye içinde ve dışında elde ettikleri kazanç ve iratların tamamı üzerinden vergilendirilirler.
+
+Soru:   Çifte vergilendirmeyi önlemek için vergi anlaşmaları nasıl işler?
+Cevap: Çifte vergilendirme, iki veya daha fazla ülke arasında gerçekleşen gelir veya varlık üzerinden aynı verginin iki kez tahsil edilmesi durumudur. Vergi anlaşmaları veya çifte vergilendirmeyi önleme anlaşmaları (ÇVOA) ise, bu sorunu çözmek amacıyla ülkeler arasında imzalanan anlaşmalardır.
+
+ÇVOA'lar, genellikle ülkeler arasında yer alan çifte vergilendirmeyi önlemek veya azaltmak için belirli bir vergi konusunu ele alır. Bu anlaşmalar, iki ülkenin vatandaşları veya şirketlerinin faaliyetlerinden doğan vergi yükümlülüklerini belirlerken, çakışan hükümleri düzenleyerek ve çelişen vergilendirme kurallarını gidererek işlev görür.
+
+ÇVOA'lar genellikle aşağıdaki başlıkları kapsar:
+
+Gelir Vergisi: Anlaşmalar, farklı ülkelerde elde edilen gelirin nasıl vergilendirileceğini belirlemek için çeşitli yöntemler sağlar. Bu, ülkeler arasında reel gelirin kaynağının tanımlanmasına, çift vergilendirilmeyi önlemek için indirimler veya muafiyetler sağlamaya ve gelirin hangi ülkede veya nasıl mükellefe vergilendirileceğine yönelik kuralları belirlemeye yardımcı olur.
+
+Kurumlar Vergisi: Anlaşmalar, iki ülke arasında faaliyet gösteren şirketlerin vergilendirilmesine yönelik kuralları belirler. Bu, yurtdışındaki bir şube veya iştirakın vergilendirilmesini, transfer fiyatlandırmasıyla ilgili kuralları ve çelişen vergi hesaplama yöntemlerini düzenleyebilir.
+
+Kazançlı Kazançlar: Anlaşmalar, iki ülke arasında taşınabilir malların (örneğin, taşıtlar, makineler) veya finansal araçların (örneğin, hisse senetleri, tahviller) satışından elde edilen kazançlar üzerindeki vergi yükümlülüklerini düzenler.
+
+Çifte Sosyal Güvenlik: Bazı ÇVOA'lar, iki ülke arasında çalışan kişilerin sosyal güvenlik haklarını koordine eder ve çifte sosyal güvenlik primi ödemelerini önler.
+
+Vergi anlaşmalarının nasıl işlediği ülkeden ülkeye değişebilir ve her anlaşmanın kendine özgü hükümleri vardır. Tipik olarak, bir kişi veya şirket, bir ülkede gelir elde ettiğinde, vergi ödemek için o ülkenin iç hukukunu takip etmek zorundadır. Ancak, ÇVOA varsa, bu kişi veya şirket, elde ettiği geliri çifte vergilendirilme riski olmaksızın bildirebilir.
+
+Bu nedenle, çifte vergilendirmeyi önlemek veya azaltmak isteyen bir kişi veya şirket, Türkiye'de bir gelir veya faaliyeti olduğunda, Türkiye ile diğer ilgili ülkeler arasındaki ÇVOA'yı incelemeli ve hangi hükümlerin geçerli olduğunu anlamalıdır. Buna ek olarak, profesyonel bir vergi danışmanıyla çalışmak ve her durumu ayrıntılı olarak analiz etmek genellikle önerilir.
+
+Miras Hukuku
+Soru: Vefat eden bir aile üyesinin mirasının nasıl dağıtılacağı hakkında bilgi almak istiyorum. Mirasçılar arasında anlaşmazlık olması durumunda nasıl bir yol izlemeliyiz?
+Cevap: Vefat eden bir aile üyesinin mirasının nasıl dağıtılacağına ilişkin kural ve düzenlemeler Türk Medeni Kanunu'nda belirtilmiştir. Mirasın dağıtımı, mirasçılar arasında anlaşmazlık yaşanması durumunda bile belirli bir yasal sürece tabidir.
+
+Mirasın dağıtımı için genel olarak şu adımlar izlenir:
+
+Muvaffakatname: Mirasçılar arasında anlaşmazlık olması durumunda, mahkemeye başvurmadan önce mirasçılar arasında bir uzlaşma sağlanması için bir muvaffakatname düzenlenmesi önerilir. Muvaffakatname, mirasçıların ortak kararıyla belirlenen mirasın nasıl paylaşılacağını açıklar. Her mirasçı bu belgeyi imzalar ve anlaşmazlık olmadığını kabul ederse, mirasın dağıtımı bu belgeye göre gerçekleştirilir.
+
+Sulh Yolu: Muvaffakatname sağlanamazsa veya mirasçılar arasında anlaşmazlık devam ederse, mirasçılar önce mahkeme aracılığıyla bir sulh yoluna başvurabilir. Sulh yolu, mirasçılar arasındaki anlaşmazlıkları çözmek amacıyla mahkeme süreciyle birlikte uzmanlar (hakem veya uzlaştırmacı) tarafından yönetilen bir alternatif uyuşmazlık çözüm yoludur. Mirasçılar, hakem veya uzlaştırmacının önerdiği çözümü kabul veya reddetme hakkına sahiptir.
+
+Dava Yolu: Eğer muvaffakatname veya sulh yoluyla anlaşma sağlanamazsa, mirasçılar dava yoluna başvurabilir. Mirasçılar, mahkemeye başvurarak mirasın dağıtımı ve anlaşmazlık çözümü için bir hukuki süreç başlatabilirler. Mahkeme, mirasçıların kanuni haklarına ve mirasçıların beyanlarına dayanarak mirasın paylaşımını belirler.
+
+Soru: Eşimle resmi nikah olmadan evlilik hayatı yaşıyor idik. Eşim vefat edince mirastan pay alabilir miyim?
+Cevap: Nikahsız eş miras davaları ile ilgili olarak miras hukuku içerisinde belirlenmiş hiçbir zümreye ait değildir. Bu nedenle nikahsız eşin mirasçı olabilmesi için ya vasiyetname olması ya da ölüme bağlı bir tasarruf olması gerekir. Nikahsız eşin miras hakkı sözleşme ile mümkün olduğundan nikahsız eşin saklı miras payı bulunmamaktadır. Ancak resmi evlilik bulunmasa bile destek tazminatı istenebileceği kabul olunmuştur. Destek tazminatının, resmi ya da resmi olmayan biçimde evlenme tarihine kadar hesaplanması gerekir. Çocukların mirasçılığı evliliğe bağlı değildir. Evlilik içi ve dışı doğan çocuklar aynı oranda mirasçı olurlar.
+
+Soru:  Vefat eden babamın SGK’dan anneme ve kardeşlerime bağlanan maaşını almamız, mirası reddetmemiz hususunda sorun teşkil eder mi?
+Cevap:  Hayır herhangi bir sorun teşkil etmez. Ölenin eş ve çocuklarına bağlanan Sosyal Sigortalar Kurumu tarafından bağlanan maaş mirasa dahil değildir. Bu bağlamda maaş sağlanması red hakkını kullanmaya engel değildir.
+
+Soru:  Annem vefat etti. Onun borçlarından dolayı mirasçısı olarak ne gibi sorumluluklarım bulunmaktadır? 
+Cevap:  Miras bırakanın borçlarından dolayı mirasçıların müteselsil ve şahsi sorumlulukları vardır. Bu sorumluluk mirasın açılması anında başlar. Ancak alacaklının mirasçı aleyhine talepte bulunabilmesi kanunda mirasın reddi için tanınan süre içerisinde mirasçı tarafından mirasın reddedilmemesine bağlıdır. Müteselsil sorumluluk ilkesinin sonucu olarak her mirasçı miras bırakanın borcunun tamamından sorumludur. Alacaklı isterse mirasçıların hepsinden isterse içlerinden sadece birinden veya birkaçından alacağının tamamını talep ve tahsil edebilir. Şahsi sorumluluk esası gereği olarak da mirasçılar miras bırakanın borçlarından sadece tereke malları ile değil; kendi şahsi malvarlıkları ile de sorumludurlar.
+
+Soru:   Oturma hakkı miras yolu ile geçer mi?
+Cevap: Oturma hakkı aslında intifa hakkının özel bir şekli olup bir binada veya onun bir bölümünde konut olarak yararlanma hakkıdır. Kira sözleşmesinden farklı olarak oturma hakkı bir ayni hak olup herkese karşı ileri sürülebilir. Kira sözleşmesi işe şahsi bir hak olup ancak taraflar arasında ileri sürülebilir. Bu bakımdan oturma hakkı kişi lehine kurulan kişiye sıkı sıkıya bağlı bir hak olup bu hak başkalarına devredilmez ve mirasçılara geçmez.
+
+Soru:   Mirasçılık belgesi nasıl alınır?
+Cevap: Miras bırakanın ölümü ile ardında kimlerin mirasçı olduğunu gösterir belgeye mirasçılık belgesi adı verilir. Mirasçılık belgesinin diğer adı veraset ilamıdır. Mirasçılık belgesinin çıkarılması için tek bir mirasçının dahi başvurusu yeterlidir. 2011 yılından önce mirasçılık belgesi sadece sulh hukuk mahkemeleri tarafından verilebiliyorken yapılan bir kanun değişikliği ile noterler de artık mirasçılık belgesi düzenleyebilmektedirler. Ancak mirasçılar arasında yabancı ülkede yaşayan veya yabancı ülke vatandaşı var ise noterler mirasçılık belgesi düzenlememektedir. Mirasçılık belgesini sadece yasal mirasçılar değil atanmış mirasçılar da talep edebilirler.
+
+Mirasçılık belgesi çekişmesiz yargılama yolu ile yani davada hasım gösterilmeksizin mahkemeden ya da noterden alınan bir belgedir. Bu hususta tek bir mirasçının varlığı ve talebi yeterlidir. Bu belgenin alınabilmesi için miras bırakanın ölümünün veya hakkında gaiplik kararı alınmış olduğunun ve bunu talep edenin mirasçılık hak ve sıfatının ispat edilmesi lazımdır.
+
+Ticaret ve Şirketler Hukuku
+Soru:   Limited şirket ile anonim şirket arasındaki farklar nelerdir?
+Cevap: Limited ve anonim şirket türlerinin öne çıkan ve birbirinden ayıran farkları şu şekildedir:
+Limited şirkette en az 10 bin TL sermaye gerekirken, anonim şirkette 50 bin TL sermayenin olması zorunludur.
+Anonim şirketi ortaklarının borç konusunda bir sorumluluğu bulunmaz. Limited şirket ortakları ise, taahhüt ettikleri pay oranı kadar vergi borcuna tabi tutulur.
+Anonim şirketlerde, hisse devri için noter onayı işlemleri gerekmez. Limited şirketlerde ise hisse devri noter huzurunda yönetim kurulunun onayı ile birlikte gerçekleşir.
+Limited şirketlerde hisse satıldığında, elde edilen kazanç gelir vergisine tabi tutulur. Anonim şirketlerde hisse pay senedi, elde edilmesinden itibaren 2 yıl içerisinde satılırsa, kazanılan gelir vergiye tabi olmaz.
+
+Soru:   Anonim şirket kurmak için gereken şartlar nelerdir?
+Cevap: Türkiye’de en yaygın olan şirket türlerinden bir diğeri olan anonim şirket, bir ya da birden fazla gerçek veya tüzel kişi tarafından ticaret unvanı altında kurulabilir. Özellikle yatırım bekleyen girişimcilerin ve sabit vergi oranı avantajı nedeniyle yüksek gelir elde edecek girişimlerin tercih ettiği şirket türü olan anonim şirketin önemli özellikleri şunlardır:
+
+Anonim şirkette esas sermaye en az 50.000 TL olmalıdır.
+Anonim şirkete en az 1 ve en fazla 500 kişi ortak olabilir.
+Anonim şirketler kanuni bir kısıtlama söz konusu olmaksızın her türlü ekonomik faaliyet ve ama
+için kurulabilir.
+Anonim şirketler hisse senedi ve tahvil çıkarma hakkına sahiptir.
+
+Soru:   Marka tescili için gereken süreç ve koşullar nelerdir?
+Cevap: Markanın tescili markanın korunmasını sağlayan, ürün veya hizmetin marka sahibini koruyan bir sistemdir. Markanın gerçek sahibi, adı geçen markayı ilk düşünen ve ürünün veya hizmetin kullanımına halen devam eden kişidir.
+
+Marka tescilini bizzat kendinizin yapabileceği gibi sizin yerinize marka vekilleri aracılığıyla da yapabilirsiniz.
+
+Markanıza karar verdikten sonra ilk önce tescil edilemeyecek markalar konusunda kendi tespitinizi yaparak önlem alabilirsiniz. Bu durum başvuru sürecini hızlandırabilir. Uzman bir marka vekilinden de yardım alınması önerilmektedir.
+
+Ülkemizde marka tescil başvuruları yeni adıyla Türk Patent ve Marka Kurumu (“TürkPatent”) eski adıyla Türk Patent Enstitüsü’ne yapılmaktadır. Aşağıda aşama aşama marka tescili işlemi özetlenmiştir.
+
+1.Aşama – Markanın Ön Araştırması ve Analizi:
+Marka olarak tescil ettirmek istediğiniz işaretin uzman bir marka vekilince araştırılması ve eğer ihtiyaç varsa gerekli değişikliklerin yapılması aşamasıdır. Düşündüğünüz markanın daha önceden tescil edilmiş olması ihtimali var. O yüzden bu aşamada gerekli incelemenin yapılmasına dikkat ediniz.
+
+2. Aşama – Marka Başvurusu:
+TürkPatent’e gerekli başvuru ücretinin yatırılarak başvurunun yapılması aşamasıdır. Marka tescili başvuru ücreti başvuru marka vekili aracılığıyla online olarak yapılırsa 2018 yılı için marka sınıfı başına 180 TL olarak revize edilmiştir. Başvuracağınız markanız mutlaka bir sınıfa girmelidir.
+
+3. Aşama – Başvurunun Şeklen İncelenmesi:
+TürkPatent’te görevli marka uzmanları tarafından başvurunuzun şeklen incelenmesi başka bir deyişle tescil başvurunuzun eksiksiz olup olmadığının incelenmesidir.
+
+4. Aşama – Başvurunun Mutlak Ret Sebepleri Açısından İncelenmesi:
+TürkPatent’te görevli marka uzmanları tarafından başvurunuzun şeklen incelenmesi aşamasından sonra uzmanlar mutlak red sebeplerinin var olup olmadığı önünde araştırma yaparlar.
+
+5. Aşama – Resmi Marka Bülteninde Yayın:
+Mutlak ret sebebi bulundurmayan başvurular Resmi Marka Bülteni adında TürkPatent tarafından yayınlanan bültende yayınlanır. Bu bültenlerde ülke çapında başvurulan markaların yayını yapılmaktadır. 2 aylık süre içerisinde üçüncü kişiler bültende yayınlanan marka başvurularına itiraz edebilirler. Siz de markanız tescil edildikten sonra marka vekiliniz aracılığıyla söz konusu bültenleri takip etmeli ve benzer markalar tescil edilmeden gerekli itirazları yapmalısınız.
+
+6. Aşama – Tescil Ücretinin Yatırılması:
+Resmi Marka Bülteninde yayınlanan ve üçüncü kişiler tarafından itiraz edilmemesi ya da üçüncü kişilerin itirazlarının kabul edilmemesi durumunda marka başvurusunun tescilinin yapılması için 2018 yılı için 495 TL’lik tescil ücreti yatırılmalıdır.
+
+7. Aşama – Marka Tescil Belgesi:
+Tüm bu aşamalar tamamlandıktan sonra markanız tescil olunur ve marka tescil belgeniz tarafınıza iletilir.
+
+Tüm bu marka tescil süreci tahmini olarak 6-7 ay sürmektedir ancak marka hakkınız tescil tarihi itibarıyla değil, başvuru tarihinden itibaren başlamaktadır.
+
+Soru:   Fikri mülkiyet haklarının ihlali durumunda tazminat ve hukuki süreç nasıl işler?
+Cevap: FSEK kapsamında koruma altında olan eser sahipliğinden doğan mali ve manevi hakların ihlali halinde, hak sahibinin, diğer hukuki haklarının yanı sıra,  ihlal sebebiyle doğan zararının tazminini talep etme hakkı da bulunmaktadır.
+
+FSEK madde 70, eser sahibinin mali ve manevi haklarının ihlal edilmesi halinde, talep edilebilecek tazminata ilişkin ayrı düzenlemeler yapmıştır. Buna göre,  eser sahibi, manevi haklarının ihlal edilmesi halinde, uğradığı manevi zarara karşılık manevi tazminat ödenmesi talebi ile dava açabilecektir. Madde 70/1, eser sahibinin manevi haklarının ihlali halinde yalnızca manevi zarar doğabileceği ve yalnızca manevi zararın tazmini için dava açılabileceği yönünde bir izlenim yaratmaktaysa da; gerek doktrin gerekse Yargı kararları ile kabul edildiği üzere; eser sahibinin manevi haklarının ihlali halinde de, şayet maddi bir zarar söz konusu ise, yine, haksız fiil hükümlerine ilişkin genel düzenlemeler kapsamında, maddi tazminat davası da açılabilecektir.
+
+Eser sahibinin mali haklarının ihlal edilmesi halinde, hak sahibinin, kusur, zarar ve illiyet bağı şartlarını ispat etmek koşuluyla gerek fiili olarak uğramış olduğu zararını gerekse mahrum kaldığı karın talep edebileceği konusunda şüphe bulunmamaktadır. Öte yandan, mali hakların ihlali halinde talep edilebilecek tazminat bakımından; eser sahibinin, ayrıca manevi zarar talep etmesinin önünde de bir engel bulunmamaktadır.
+
+Maddi ve manevi tazminat talep haklarının yanı sıra, FSEK, eser sahibine, daha avantajlı ve hatta ihlalde bulunanın kusuru olmasa dahi talep edebileceği başka alacak hakları da sağlamaktadır.
+
+FSEK madde 68 uyarınca, eser hakkı sahibi ( veya diğer hak sahipleri), eserlerin izinsiz çoğaltılması, yayılması veya bir şekilde umuma iletilmesi halinde, ihlalde bulunanlardan, hak sahibi ile söz konusu hakların kullanımına ilişkin bir sözleşme yapılması halinde ödeyecekleri bedelin en fazla üç kat fazlasını da talep etme hakkına sahiptir.
+
+Soru: X Anonim şirket ve Y Anonim şirketi birleştirmek istiyoruz. Hangi prosedürleri uygulamamız gerekir?
+Cevap: Şirket birleşmelerinde izlenecek yol Türk Ticaret Kanunu’nun ilgili maddelerinde şu şekilde tarif edilmiştir:
+Birleşme sözleşmesi. Birleşme sözleşmesinde birleşmeye katılan şirketler, şirket birleşme şartları ve şirket payları ile öngörülmüşse denkleştirme tutarı yer alır. Birleşme sözleşmesi yazılı şekilde yapılır.
+Birleşme raporu. Birleşme raporunda birleşmenin amaç ve sonuçları ile birleşme sözleşmesine yer verilir. Birleşme raporu birleşmeye katılan şirketlerin yönetim organlarınca hazırlanır. Eğer birleşmeye katılan tüm ortaklar onay verirse küçük ve orta ölçekli şirketlerin birleşme raporu hazırlamasına gerek yoktur.
+Karar. Birleşme sözleşmesi birleşmeye katılan şirketlerin yönetim organlarınca imzalanır ve genel kurullarınca oylanır. Genel kurulda istenen oy oranı her bir şirket çeşidi için farklılık arz etmektedir.
+Tescil ve ilan. Birleşme kararı alındıktan sonra yönetim organlarının vakit kaybetmeden birleşmenin tescili için ticaret siciline başvurmaları gerekmektedir. İlan Türkiye Ticaret Sicili Gazetesi’nde olur.
+
+Soru:  Şirketlerin iflası ve borçlarını ödeyememe durumunda ortaklar ve yöneticilerin sorumluluğu nedir?
+Cevap: Bu sorunuzun cevabı şirketin türüne göre değişiklik göstermektedir. 
+Limited şirketlerde ortakların sorumluluğu şu şekildedir: 
+Ortaklarının üçüncü kişilere karşı sorumlulukları sınırlı bir sorumluluktur; ortakların sorumluluğu sadece taahhüt ettikleri sermaye tutarı  ile sınırlıdır.
+Ortaklar, kamu borçları dışında şirketin üçüncü kişilere olan borçlarından dolayı ve şirket alacaklılarına karşı sorumlu değildir.
+Anonim şirketlerde ise şu şekildedir: 
+Ortakların sorumluluğu, taahhüt ettikleri sermaye payları  ile  şirkete karşı sorumludurlar. 
+YK üyesi olan ortaklar sermaye paylarına bakılmaksızın şirketin tüm kamu borçlarından sorumludur. 
+YK üyesi olmayan ortaklar ise kamu borçlarından herhangi bir sorumlulukları bulunmamaktadır.
+
+Soru:  Bir anonim şirketin yönetim kurulu üyesiyim vergi ve sosyal sigortalar primi uzun süredir ödenmemektedir. Yönetim kurulu üyesi olarak şahsen bu borçlardan sorumlu muyum?
+Cevap:  Eğer bir anonim şirkette yönetim kurulu üyesi iseniz, kamu borçlarından sorumluluğunuz TTK’nın ilgili hükümlerinde şu şekilde açıklanmaktadır: 
+Vergi sorumlusu şirketlerin mal varlığından tahsil edilemeyen vergi ve buna bağlı alacaklar, ödevlerini yerine getirmeyenler şahsi olarak sorumlu tutulur. 
+Şirketin malvarlığından tahsil edilemeyen diğer kamu borçları kanuni temsilcisi şahsi sorumludur.
+Sigorta primleri ve diğer alacaklar ödenmediğinde yönetim kurulu üyeleri ile üst düzeydeki yöneticiler ve kanuni temsilcileri şirket ile birlikte müştereken ve müteselsilen sorumludur.
+
+Dernekler ve Vakıflar Hukuku
+Soru:  Türkiye’de bir dernek kurmak istiyorum. Bu süreci nasıl başlatabilirim?
+Cevap: Kuruluş bildirim formu, dernek tüzüğü, yetkili kişi veya kişilerin adı, soyadı, yerleşim yerlerini ve imzalarını belirten liste, muvafakatname ve özellikli durumlar için gereken diğer evraklarla İl Dernekler Müdürlüğü’ne başvurulur. Kuruluş bildirimi ve eklerini mülki idare amirliğine vermek suretiyle tüzel kişilik kazanılır.
+
+Mülki idare amirliği tarafından dernek kuruluş bildirimi, gün ve saat belirtilmek suretiyle dernekler birimine havale edilir ve başvuru sahibine kuruluş bildirimi ve eklerinin alındığına dair Alındı Belgesi verilir.
+
+Soru:  Dernek ve vakıf tüzüğü nasıl hazırlanır ve içeriğinde neler olmalıdır?
+Cevap: Dernekler Mevzuatı gereğince derneğin tüzüğünde aşağıda gösterilen hususların belirtilmesi zorunludur:
+ 
+Derneğin adı ve merkezi. (Derneğinizin adı, daha önce kurulmuş olan bir derneğin adından farklı olmak zorundadır.)
+Derneğin amacı ve bu amacı gerçekleştirmek için dernekçe sürdürülecek çalışma konuları ve çalışma biçimleri ile faaliyet alanı.
+Derneğe üye olma ve üyelikten çıkmanın şart ve şekilleri.
+Genel kurulun toplanma şekli ve zamanı.
+Genel kurulun görevleri, yetkileri, oy kullanma ve karar alma usul ve şekilleri.
+Yönetim ve denetim kurullarının görev ve yetkileri, ne suretle seçileceği, asıl ve yedek üye sayısı.
+Derneğin şubesinin bulunup bulunmayacağı, bulunacak ise şubelerin nasıl kurulacağı, görev ve yetkileri ile dernek genel kurulunda nasıl temsil edileceği.
+Üyelerin ödeyecekleri giriş ve yıllık aidat miktarının belirlenme şekli.
+Derneğin gelir kaynakları.
+Derneğin iç denetim şekilleri.
+Tüzüğün ne şekilde değiştirileceği.
+Derneğin feshi halinde mal varlığının tasfiye şekli.
+Dernek geçici yönetim kurulu üyelerinin adı, soyadı, görev ünvanı.
+Dernek tüzüğünde kanunen belirtilmesi zorunlu hususlar dışında, Kanuna aykırı olmamak kaydıyla tüzükte yer alması istenilen diğer hükümler eklenebilir.
+
+Soru: Dernek üyeliğimi iptal ettirmek istiyorum. Bunun için hakkımda herhangi bir yaptırım uygulanabilir mi?
+Cevap: Anayasamızda da dernek üyeliği hakkı AİHS.’ne paralel olarak m. 33’de “Herkes, önceden izin almaksızın dernek kurma ve bunlara üye olma ya da üyelikten çıkma hürriyetine sahiptir. Hiç kimse bir derneğe üye olmaya ve dernekte üye kalmaya zorlanamaz.’’ şeklinde düzenlenmiştir. Böylece derneklere üye olma ve derneklerden istifa etme hususları kişilerin hür iradesine bırakılmıştır.
+
+Soru:  Yardım toplama faaliyeti için izin almam gerekir mi?
+Cevap: 2860 sayılı Yardım Toplama Kanunu hükümleri uyarınca;
+
+Kamu yararına uygun olarak, amaçlarını gerçekleştirmek, muhtaç kişilere yardım sağlamak ve kamu hizmetlerinden bir veya birkaçını gerçekleştirmek veya destek olmak üzere gerçek kişiler, dernekler, kurumlar, vakıflar, spor kulüpleri, gazete ve dergiler izin alarak yardım toplama faaliyeti yürütebilirler.
+Yardım isteğe bağlıdır. Kişi ve kuruluşlar yardımda bulunmaya zorlanamaz.
+Makbuzla, belirli yerlere kutu koyarak, bankalarda hesap açtırarak, yardım pulu çıkararak, eşya piyangosu düzenleyerek, kültürel gösteriler ve sergiler yoluyla, spor gösterileri, gezi ve eğlenceler düzenlemek veya bilgileri otomatik ya da elektronik olarak işleme tâbi tutmuş sistemler kullanmak suretiyle yardım toplanabilir.
+
+Kişiler ve kuruluşlar, yetkili makamdan izin almadan yardım toplayamazlar. Ancak, kamu yararına çalışan dernek, kurum ve vakıflardan hangilerinin izin almadan yardım toplayabilecekleri, İçişleri Bakanlığının önerisi üzerine Bakanlar Kurulunca belirlenip ilan edilir.İzin alınmadan girişilen yardım toplama faaliyetleri güvenlik kuvvetlerince derhal menedilir ve sorumlular hakkında kovuşturma yapılır.
+
+Yardım toplama faaliyeti bir ilin birden fazla ilçesini kapsıyorsa o ilin valisinden, bir ilçenin sınırları içinde ise o ilçenin kaymakamındanizin alınır. Yardım toplama faaliyeti birden fazla ili kapsıyorsa yardım toplama faaliyetine girişecek gerçek veya tüzel kişilerin yerleşim yerinin bulunduğu ilin valisinden izin alınır ve izni veren valilik tarafından ilgili valiliklere ve İçişleri Bakanlığına bilgi verilir. Yardım toplama faaliyetleriyle ilgili işlemler dernekler birimlerince yürütülür.
+
+Yardım toplayacak kişi ve kuruluşlar, isteklerini bir dilekçeyle izin vermeye yetkili makama bildirirler.Gazete ve dergiler için dilekçeler sorumlu yazı işleri müdürlerince verilir.Yardım toplama, öğrenim kurumları yararına veya kurum içinde yapılacak ise, başvuru dilekçesine kurum sorumlusunun yazılı izninin eklenmesi zorunludur.
+
+Yardım toplayacak kişi ve kuruluşlar, isteklerini bir dilekçeyle izin vermeye yetkili makama bildirirler.
+
+Müracaat dilekçelerinde hangi amaçla ve ne miktarda yardım toplanacağı, yardım toplama faaliyetlerinin sürdürüleceği il ve ilçeler, yardım toplama şekillerinden hangilerinin uygulanacağı, kaç kişi çalıştırılacağı ve yardım toplamada kullanılacak makbuz miktarı belirtilir.
+
+Toplanacak yardım miktarını belirlemeye yarayacak keşif özeti, rapor ve benzeri bilgi ve belgeler de müracaat dilekçesine eklenir.
+
+Tüzel kişiliği haiz kuruluşların müracaatlarında kuruluşun yönetim organlarında görevli olanların, gerçek kişilerin yardım toplaması halinde ise sorumlu kurul üyelerinin ve yardım toplama faaliyetlerinde görev alacakların açık kimlikleri ve adresleri belirtilir. Kamu görevlilerinin çalıştırılmasının düşünülmesi halinde ilgili valilik ve kaymakamlıklardan alınmış izin belgeleri de eklenir.
+
+İzin veren makamca gerekli görülecek diğer bilgi ve belgeler daha sonra tamamlattırılır.
+
+Soru:  Kurulan derneğin dağılması durumunda malvarlığı nasıl değerlendirilmelidir?
+Cevap: Genel kurul kararı ile feshedilen veya kendiliğinden sona erdiği tespit edilen derneğin para, mal ve haklarının tasfiyesi, tüzüğünde gösterilen esaslara göre yapılır. Tüzükte tasfiyenin ne şekilde yapılacağının genel kurul kararına bırakıldığı hallerde, genel kurul tarafından bir karar alınmamış veya genel kurul toplanamamışsa yahut dernek mahkeme kararı ile feshedilmişse, derneğin bütün para, mal ve hakları, mahkeme kararıyla derneğin amacına en yakın ve kapatıldığı tarihte en fazla üyeye sahip derneğe devredilir.
+ 
+Kendiliğinden sona erdiği tespit edilen veya feshine karar verilen derneklerin tasfiye  ve devir işlemleri tamamlandıktan sonra dernekler kütüğündeki kayıtları silinir.
+
+Soru:   Dernek ve vakıf yöneticileri hangi durumlarda kişisel sorumluluk altına girebilirler?
+Cevap: Dernek tüzel kişiliği adına ilgili kurumlarca tahakkuk ettirilen sigorta ve vergi gibi yasal yükümlülükler için öncelikle dernek malvarlığına bakılır ve borcun dernek malvarlığından tahsili yoluna gidilir.
+
+Dernek malvarlığının, idarece tahakkuk ettirilen bu ödemeleri karşılayamaması halinde, alacağı derneğe tahakkuk ettiren idare, alacaklarının tahsili için tahakkuk ettirdiği borcunu ve bu borca bağlı olarak doğan diğer borçların doğmasına ilişkin işlemlerin gerçekleştiği dönemde görev yapan dernek yönetim kuruluna müracaat eder. Bu borçtan, söz konusu dönemde fiilen görevde bulunan dernek yönetim kurulu asil üyelerinin tamamı müşterek ve müteselsilen sorumlu olurlar.
+
+İdarece tahakkuk ettirilip tahsili talep edilen borçtan, borcun doğuşuna ilişkin dönemde görevde bulunmayan dernek yönetim kurulları sorumlu tutulamaz. 
+
+Bu borçların dernek malvarlığından karşılanamaması nedeni ile bu borçları ödemek zorunda kalan dernek yönetim kurulu üyeleri, şahsi malvarlıklarından ödedikleri dernek borçlarını dernek tasfiye edilmediği müddetçe, dernek genel kurulu aracılığı ile derneğe rücu edebilirler ancak derneğin tasfiyesi halinde, borcun rücu edileceği herhangi bir teşekkül kalmadığından bu yolu kullanma imkânları kalmamaktadır.
+
+İcra ve iflas hukuku
+Soru:  İnternet aboneliğim nedeniyle hakkımda icra takibi başlatıldı. Ancak herhangi bir borcum yok ne yapmalıyım?
+Cevap: Hakkınızda başlatılan icra takibine, icra dairesi tarafından gönderilen ödeme emrine 7 gün içinde itirazınızı bildirmeniz gerekmektedir. Bu şekilde takip durur. İtiraz süresi içinde itiraz edilmezse ödeme emri ve icra takibi kesinleşir. Çünkü yedi günlük süre hak düşürücü süredir. İtiraz süresi hesaplanırken borçlunun kendisine gönderilen tebliğ tarihi yani borçlunun tebellüğ ettiği tarih esas alınır. 
+
+Soru:   Arkadaşım verdiğim borç nedeniyle düzenlediği senedi ödemedi ne yapmalıyım?
+Cevap: Arkadaşınıza verdiğiniz borç nedeniyle düzenlenmiş olup vadesi gelen ancak ödenmeyen senet icraya verilebilir. Borcu ödenmeyen alacaklı, senedin aslını borçlunun ikametinin bulunduğu icra müdürlüğüne götürerek, kambiyo senetlerine mahsus takip ile icra takibi başlatır. Bu aşamalarda avukat yardımı alınması olası hak kayıplarını önleyecektir. Takip talebini ve senedin aslını alan icra müdürlüğü, senet borçlusunun adresine ödeme emri gönderecek ve borcu 10 gün içerisinde ödemesi gerektiğini ihtar edecektir. Her ne kadar ödeme süresi 10 günse de borçlunun itiraz süresi 5 gündür. Borçlu ödeme emrinin tebliğinden itibaren 5 gün içerisinde icra hukuk mahkemesine itirazda bulunabilir. Ödeme emrine itiraz edilmesi takibi durdurmaz, haciz işlemleri devam eder.
+
+Soru: Cep telefonumu avukat olduğunu söyleyen birisi aradı ve borcum olduğunu, bugün ödemediğim takdirde evime hacze geleceklerini söyledi. Ancak benim hiç kimseye borcum bulunmamaktadır. Hakkımda başlatılan icra takibinden de haberim yoktu. Bu durumda neler yapabilirim?
+Cevap: Bu tür durumlarla karşılaşmak stresli olabilir, ancak sakin kalmak ve adımlarınızı dikkatlice planlamak önemlidir. İşte bu durumda yapmanız gerekenler:
+
+Detayları Doğrulayın: Avukat olduğunu söyleyen kişinin kimliğini doğrulamak için adını, şirket veya ofis adını, telefon numarasını ve iletişim bilgilerini alın. İcra takibi başlatıldığını iddia eden kişi size bilgi sunuyorsa, alacaklı adını ve borç miktarını öğrenin.
+
+İcra Dosyasını İnceleyin: İcra takibinden haberiniz olmadığına göre, icra dosyasını inceleyerek daha fazla bilgi edinmeniz önemlidir. İcra müdürlüğüne başvurarak veya online olarak ilgili dosyayı talep edebilirsiniz. Dosyada icra takibine dayanak gösterilen alacaklı, borç miktarı ve diğer detaylar yer almalıdır.
+
+İtiraz Hakkınızı Kullanın: Borçlu olan tarafın alacaklı tarafından başlatılan haciz işlemine itiraz etme hakkı bulunur fakat bu hak ödeme emri alındığında devreye girer. Borçluya tebliğ edilen ödeme emrine teslim edildiği andan itibaren 7 gün içerisinde dilekçe vermek sureti ile itiraz edilebilir. Ödeme emrine bir itiraz yapılmadığı takdirde alacaklı taraf icra takibini başlatmak isterse bu hakkını kullanabilir ve haciz işlemi gerçekleştirileceği zaman borçlu olan taraf buna itiraz etmek isterse menfi tespit davası açılması gerekir. Bu dava kesinleşmiş icra takibi karşısında açılan bir dava türüdür.
+
+Hukuki Yardım Alın: Bu tür durumlarda, hukuki bir uzmanın yardımı önemlidir. Bir avukat, size doğru adımları atmanız konusunda rehberlik edebilir, itiraz dilekçesi hazırlamanıza yardımcı olabilir ve hukuki süreci takip edebilir.
+
+Şikayet Başvurusu: Eğer kişi gerçek bir avukatı taklit ediyor veya dolandırıcılık yapıyorsa, bu durumu ilgili mercilere bildirmeniz önemlidir. İlgili baro veya savcılığa başvurarak, dolandırıcılık iddialarınızı aktarabilirsiniz.
+
+Soru:  Bankaya usulüne uygun olarak ibraz edilen ve karşılıksız çıkan bir çek için icra takibi başlatabilir miyim? Hangi belgelere ihtiyacım var?
+Cevap: Çeki karşılıksız çıkan kişi ister bu müracaat borçlularına karşı isterse de çeki düzenleyen kişiye karşı icra dairesine giderek icra takibi başlatabilir. Burada çekin arkasında yatan hukuki işlem bir önem arz etmez. Çek bir nevi sebepsiz borç ikrarı niteliğindedir.
+
+Müracaat borçlularına başvuru ile ilgili önemli bir nokta vardır. Eğer çekte ibraz süreleri geçirilmişse müracaat borçlularına karşı icra takibi yapmak mümkün olmaz. İbraz süresi geçince, çeki düzenleyene karşı yapılan icra takibinde ise çekin arkasında yatan ve borç ilişkisini doğuran hukuki ilişki önem taşır. Aksi durumda düzenleyen takibe itiraz edebilir.
+
+Bununla beraber ibraz süresinin geçirilmesi durumunda çek mevzuatına özgü bir sebepsiz zenginleşme davası açma imkanı söz konusudur. Bu dava Türk Borçlar Kanununda düzenlenen sebepsiz zenginleşme davasından biraz farklıdır. İbraz süresini aşan kişi Türk Ticaret Kanunu m. 732 uyarınca sebepsiz zenginleşme davası açarak karşılıksız çek tahsili yapabilecektir.
+
+Soru: İflasın ertelenmesi talebi nasıl yapılır ve hangi durumlarda kabul edilebilir?
+Cevap: İflas erteleme için maddi ve şekli şartların sağlanması gerekmektedir. İflas erteleme şartları İcra İflas Kanununda belirtilmiştir. İflas erteleme talebinde bulunan şirketin borca batık olması gerekmekte ve fakat şirketin bu durumunu iyileştirmenin de mümkün olması gerekmektedir. Elbette alacaklılarının haklarının korunması da bir diğer şarttır. Saymış olduğumuz bu şartlar iflas ertelenmesinin maddi şartlarıdır. Bununla birlikte şekli şartlardan da bahsetmek gerekir. Öncelikle iflasın ertelenmesi talep edilmesine bağlıdır. Yani mahkeme bu kararı kendiliğinden vermez. Alacaklıların korunması amacıyla borca batıklık bildiriminin de yapılması gerekmektedir. Borca batıklık şirketin malvarlığı pasiflerinin aktiflerinden fazla olması anlamına gelir.  
+
+Şirket bilançosunun da mahkemeye verilmesi gerekmektedir. Bilanço hazırlanması, uzmanlık gerektiren bir çalışma olarak karşımıza çıkar. Bu konuda bir avukatla çalışılmasını tavsiye etmekteyiz. Mahkeme bilançoyu inceleyecek ve şirketin borca batıklığı ve bu mevcut durumun düzeltilip düzeltilmeyeceği yönünde bir karar verebilecektir. İflas erteleme talebinde bulunan şirket iflas erteleme şartları uyumuna uygun bir İyileştirme Projesi de hazırlayıp mahkemeye sunmalıdır. Bu proje şirketin mali durumunu düzeltmek için ne yapılacağına ilişkindir. Şekil şartlarından biri de elbette mahkeme masrafları yatırılmış olmasıdır. Bu masraflar en geç iflas ertelenmesi kararının verilmesinden önce yatırılmalıdır. Son olarak Fevkalade Mühlet’ten yararlanılmış olunması şartı karşımıza çıkmaktadır. Fevkalade Mühlet kurumu olağanüstü durumlarda, isteyen borçluya borcunu ödeyebilmesi için verilen 6 aylık süreyi sağlamaktadır. Bu süre Bakanlar Kurulu kararı ile icra tetkik merci tarafından verilmektedir. Eğer bir şirket, fevkalade mühlet kurumundan yararlanmış ise mühletin bitiminden itibaren 1 yıl içerisinde iflas ertelemeden yararlanamayacaktır. İşte iflas erteleme şartları maddi ve şekli bunlardır.
+
+Yabancılar ve vatandaşlık hukuku
+Soru: Türkiye’de ikamet eden bir yabancıyım. Türkiye’de iki yıl X üniversitede lisans eğitimi gördükten sonra başka bir üniversiteye geçiş yaptım. İkamet için izlemem gereken prosedür nedir?
+Cevap: Aynı öğretim kurumunda fakülte veya bölüm değişikliği ile aynı ilde öğretim kurumu değişikliği durumunda öğrenciliğe ara verilememesi ve süresinde bildirimde bulunulması kaydıyla mevcut ikamet izni geçerliliğini korur. Bulunduğunuz il göç müdürlüğüne 20 iş günü içerisinde değişiklik bildirilmelidir. İkamet izni öğrenim süresinden kısa ise iznin bittiği tarihten itibaren öğrenim süresi kadar uzatılır. Farklı bir ilde öğrenime devam edilecek olması durumunda öğrenime devam edilecek il valiliğince mevcut ikamet izni kesilerek yeni öğrenim süresi kadar ikamet izni düzenlenir. 
+
+Soru: Türk vatandaşlığının yatırım yoluyla kazanılması için gerekli olan yatırım şartları nelerdir?
+Cevap: 
+En az 500.000 Amerikan Doları veya karşılığı döviz ya da karşılığı Türk Lirası tutarında sabit sermaye yatırımı gerçekleştirmek
+En az 250.000 Amerikan Doları veya karşılığı döviz ya da karşılığı Türk Lirası tutarında taşınmazı satın alıp tapu kayıtlarına üç yıl satılmaması şerhi koydurmak
+En az 50 kişilik istihdam oluşturmak,
+En az 500.000 Amerikan Doları veya karşılığı döviz ya da karşılığı Türk Lirası tutarında mevduatı Türkiye’de faaliyet gösteren bankalara yatırıp üç yıl tutacağına dair taahhütte bulunmak
+En az 500.000 Amerikan Doları veya karşılığı döviz ya da karşılığı Türk Lirası tutarında Devlet borçlanma araçlarını satın alıp üç yıl tutacağına dair taahhütte bulunmak
+
+Soru: İkamet izni ilk başvurusundaki 90 günlük değerlendirme süreci içerisinde yurt dışına çıkabilir miyim?
+Cevap: ilk başvuruda bulunana yabancılara randevu gününde il göç idaresi müdürlüğü tarafından ikamet izni müracaat belgesi düzenlenmektedir. Uzatma başvurularında müracaat belgesi sistem tarafından otomatik olarak düzenlenir. Bu belgenin il göç müdürlüğü tarafından onaylanması gerekmektedir. Bu müracaat belgesi ve harç makbuzlarının onaylı örnekleri her defasında 15 gün içerisinde dönmek şartıyla çoklu giriş çıkış hakkı sağlamaktadır. 
+
+Soru: Çalışma iznim var. Türkiye’de eğitim görebilir miyim?
+Cevap: Yabancı sermayeli şirketler için çalışma izni uygulamaları 4875 numaralı Doğrudan Yabancı Yatırım Kanunu kapsamında değil, 4817 numaralı Yabancıların Çalışma İzni Kanunu’nda düzenlenmiştir.
+
+Yönetimde ve çalışma amaçları yetkisi olmadan sadece sermaye ortağı olan kişiler , 4817 sayılı Yabancıların Çalışma İzni Kanunu’nun da amacı “iş” olarak belirleyemez. Bununla beraber, şirketin operasyonlarında aktif olarak rol alan iş ortaklarının çalışma izni almaları gereklidir. Bir yabancı iş ortağı olarak çalışma izni yapabilmek için, işverenler tarafından sağlanması gereken uygunluk kriterlerine ek olarak, yabancı iş ortağının sermaye hissesi toplam sermayenin %20’sinden az olamaz ve en az 40.000 TL olmalıdır.
+
+Yabancı iş ortağı çalışma izni başvurularında, yabancı çalışan kota sistemi son altı ay içinde bir yıllık çalışma izni sağlanmışsa gereklidir. Bu sebeple, yabancı iş ortaklarının iş yerinde 5 Türk tam zamanlı çalışan kriterini ilk başvuruda sağlamaları gerekmektedir.
+
+Soru: Mülteci statüsünde Türkiye’de bulunuyorum, çalışma izni alabilir miyim?
+Cevap: mülteci ya da ikincil koruma statüsü sahibi yabancılar çalışamayacağı iş ve mesleklere ilişkin diğer mevzuatta yer alan hükümler saklı kalmak kaydıyla statü alınmasından itibaren bağımlı veya bağımsız olarak çalışabilmektedir. Mülteci veya ikincil koruma statüsü kimlik belgesi, çalışma izni yerine de geçer ve bu durum kimlik belgesine yazılmaktadır. 
+
+Soru: Yabancı futbolcular için çalışma izni almamız lazım mı?
+Cevap: Türkiye Futbol Federasyonunca veya Gençlik ve Spor Genel Müdürlüğünce talepleri uygun bulunan yabancı futbolcular ile diğer sporcu ve antrenörlerin sözleşmeleri süresince çalışma izni almalarına gerek bulunmamaktadır. 
+
+Bilişim ve İnternet Teknolojileri
+Soru: Sosyal medyada birine küfrettim. Hakkımda dava açacağını söyledi. Sosyal medyada küfür etmenin cezası nedir ?
+Cevap: Türkiye'de sosyal medya üzerinden birine hakaret veya küfür etmek, cezai sorumluluğa yol açabilir. Türk Ceza Kanunu'nun ilgili hükümleri gereği, hakaret suçunun işlenmesi durumunda bir dava açılabilmektedir.
+
+Türk Ceza Kanunu'nun 125. maddesine göre, bir kimseye hakaret suçu işleyen kişi, sorumluluk altında olacaktır. Hakaret suçu, sözlü veya yazılı olarak bir kişiye onur, şeref veya saygınlığını rencide edecek ifadeler kullanmaktır. Sosyal medyada da yapılan hakaretler, bu hükmün kapsamına girebilir.
+
+Hakaret suçu, mağdurun şikayeti üzerine soruşturma ve kovuşturma yapılabilmesi için mağdurun şikayetçi olması gerekmektedir. Yani, küfür ettiğiniz kişinin şikayetçi olması durumunda, suç şikayet üzerine soruşturulabilir ve dava açılabilir. Sosyal medyada küfür edilmesi durumunda 3 aydan 2 yıla kadar hapis cezası bulunmaktadır. Sosyal medyada aleni bir şekilde işlenmesi durumunda ise ceza 1/6 oranında arttırılacaktır.
+
+Soru:  İnternet üzerinden yapılan resmi yazılı sözleşmelerin hukuki geçerliliği nasıl sağlanır?
+Cevap: Türk Borçlar Kanunu m. 12 ‘ye göre; sözleşmeler için herhangi bir şekil şartı öngörülmemiştir, ancak aksi taraflarca kararlaştırılarak yapılacak sözleşme için şekil şartı öngörülebilir. Elektronik ortamda yapılan sözleşmeleri şekil bakımından ele almak gerekirse, bu sözleşmelerin yapıldığı ortam göz önüne alındığında pekâlâ yazılı olarak yapılabileceğini söyleyebiliriz. Ancak, elektronik ortamda kurulması düşünülen bir sözleşme, resmi şekil şartına tabii ise, yani sözleşmenin kurulması aşamasında resmi bir makamın varlığı gerekiyorsa, bu sözleşmenin elektronik ortamda kurulması mümkün olmayacaktır. Örnek vermek gerekirse, kira sözleşmesi adi yazılı şekil şartına tabii olduğundan elektronik ortamda kurulabilirken, taşınmaz satış sözleşmesi resmi yazılı şekil şartına tabii olduğundan elektronik ortamda kurulamayacaktır.
+
+Elektronik ortamda resmi yazılı şekilde sözleşme kurabilmenin tek bir yolu vardır: kanun koyucunun açıkça belirtmesi. Kanunumuzda açıkça resmi yazılı bir sözleşmenin elektronik yolla kurulacağı belirtilirse, bu durumda bu sözleşmeler de elektronik ortamda pekâlâ kurulabilecektir. Ancak, şuan ki mevzuatımızda konuya ilişkin bir düzenleme bulunmamakla beraber; uluslararası mevzuatta da ülkelerin bu tip bir hüküm kurmaktan kaçındığını görüyoruz.
+
+Sonuç olarak, elektronik ortamda kurulan sözleşmeler hukukumuzda yazılı şekil şartını sağlayarak geçerli kabul edilmekle beraber; resmi yazılı şekle tabi sözleşmeler, mevzuatımızda konuya ilişkin herhangi bir düzenleme bulunmadığından, elektronik ortamda kurulamamaktadır.
+
+Siber saldırılar ve bilgisayar korsanlığı durumunda ceza hukuku nasıl uygulanır?
+Cevap: Siber saldırılar ve bilgisayar korsanlığı gibi durumlarda, Türkiye'de Ceza Hukuku uygulanır. Türk Ceza Kanunu'nun ilgili hükümleri, bu tür suçların cezai sorumluluğunu düzenler.
+
+Türk Ceza Kanunu'nun 243. maddesi, "Bilgi sistemine girme" suçunu düzenler. Bu suç, izinsiz olarak bir bilgi sistemi veya veritabanına girme, içeriğini okuma, değiştirme veya yok etme gibi eylemleri içerir. Bu tür eylemler, siber saldırılar ve bilgisayar korsanlığı faaliyetlerine örnek teşkil eder. Bu suçun işlenmesi durumunda, TCK'ya göre cezalandırılabilirsiniz.
+
+Türk Ceza Kanunu'nun 244. maddesi ise " Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme Suçu" suçunu düzenler. Bu suç, bir bilgi sistemi veya veritabanına izinsiz giriş yapmak amacıyla, o bilgi sistemini veya veritabanını işlemez hale getirmek veya doğru çalışmasını engellemek için cihazlara zarar vermek anlamına gelir.
+
+Türk Ceza Kanunu'nun diğer hükümleri de siber saldırılar ve bilgisayar korsanlığı gibi eylemleri kapsayabilir. Örneğin, iftira, şantaj, dolandırıcılık, veri hırsızlığı gibi suçlar da bu tür faaliyetlerle bağlantılı olabilir ve ceza hukuku kapsamında değerlendirilebilir.
+
+Siber saldırılar ve bilgisayar korsanlığı suçlarına ilişkin cezalar, işlenen suçun niteliğine ve zarara, mağdurun durumuna ve suçun ciddiyetine bağlı olarak değişebilir. Türk Ceza Kanunu'na göre, bu suçlar için hapis cezaları, para cezaları veya her ikisini de içerebilir.
+
+Siber suçlardan şüpheleniyorsanız veya bir mağdur olarak bu tür bir durumla karşılaştıysanız, hukuki yardım almanız önemlidir. Bir avukat, size konuyla ilgili danışmanlık sağlayabilir, haklarınızı koruma konusunda size rehberlik edebilir ve ilgili yasal süreci yönetebilir.
+
+Diğer
+Soru: Temyiz ne demektir ve bir davada nasıl kullanılabilir?
+Cevap: İstinaf mahkemesinin vermiş olduğu karara karşı olarak hükümlerinin yeniden incelenmesi için yapılan kanun yoluna temyiz denir. Bir nevi üst mahkemeye olayın taşınması olarak nitelendirilir. Taraflar başvurusunu gerçekleştirmeleri ardından istinaf mahkemesi kararının değiştirilmesinin veya bozulmasının talebinde bulunurlar. Başvurunun gerçekleştiği zaman dosyayı incelemeye yetkili olan mercii Yargıtay’dır. 15 günlük istinaf mahkemesi kararının tefhimi veya tebliğinden itibaren temyizin süresi olarak nitelendirilir. Süre içerisinde ilk karar verilen gün hesaba katılmaz ve işlemler bu günden sonra yapılır. Bu sayede temyiz ve temyiz süreci nedir cevapları alınmış olunur. 15 günlük sürecin son günü tatil gününe denk gelirse sonucu aktarmak için bir sonraki iş günü beklenir.
+
+Soru: Müteselsil sorumluluk nedir?
+Cevap: Birden fazla kişinin, bir borç veya zararın tamamının ödenmesi sorumluluğundan, zincirleme şeklinde ve tek başına sorumlu olması haline müteselsil sorumluluk adı veriliyor. Birden fazla kişi için sadece müteselsil sorumluluk kararı verildiyse alacaklı kişinin, borcun tamamı için borçlular arasından seçmiş olduğu bir tanesine müracaat etme hakkı bulunuyor. 
+
+
